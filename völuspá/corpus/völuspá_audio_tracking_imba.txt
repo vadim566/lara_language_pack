@@ -1,0 +1,832 @@
+<page>
+
+<img src="Codex_Regius_Large.jpg" width="662" height="1000"/>
+/*
+Völuspá er hluti Eddukvæða og varðveitt í Konungsbók eddukvæða (Codex Regius)
+GKS 2365 4to sem var skrifuð seint á 13. öld af óþekktum skrifara.
+
+<b>[THIS IS A WORK IN PROGRESS, LATER VERSIONS MAY CHANGE.
+SUGGESTIONS FOR IMPROVEMENTS ARE VERY WELCOME. PLEASE MAIL
+BRANISLAV BEDI, brb19 at hi.is]</b>
+*/||
+||<page>
+
+<table>
+   <tr><td><h1>Völuspá||</td><td>/*Vǫluspá*/</td></tr>
+   <tr><td><h2>/*Vsp. 1-3*/||</h2><td>/**/</td></tr>
+   <tr><td>/*<i>(Ritháttur í nútímaíslensku)</i>*/</td><td>/*<i>(Ritháttur í Konungsbók)</i>*/||</td></tr>
+   <tr><td></h1></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_1" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.1*/</td><td>/**/</td></tr>
+   <tr><td class="audio_1_line">Hljóðs#hljóð# bið#biðja# ek</td><td>/*Hliods bið ec*/</td></tr>
+   <tr><td class="audio_1_line">allar#allr# kindir#kind#,</td><td>/*allar kindir*/</td></tr>
+   <tr><td class="audio_1_line">meiri ok minni</td><td>/*meiri oc miNi*/</td></tr>
+   <tr><td class="audio_1_line">mögu#mögr# Heimdalar#Heimdallr#;</td><td>/*mavgo ¦ heimdallar*/</td></tr>
+   <tr><td class="audio_1_line">vildu#vilja# að#at# ek, Valföðr#Valföðr#,</td><td>/*vilðo at ec ualfa/þr*/</td></tr>
+   <tr><td class="audio_1_line">vel fram telja</td><td>/*uel fyr telia*/</td></tr>
+   <tr><td class="audio_1_line">forn spjöll#spjall# fira#firar#,</td><td>/*forn ¦ spioll fíra*/</td></tr>
+   <tr><td class="audio_1_line">þau#sá# er fremst#framr# um man#muna#.||</td><td>/*þa/ er fremst um man.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_2" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.2*/</td><td>/**/</td></tr>
+   <tr><td class="audio_2_line">Ek#ek# man#muna# jötna#jötunn#</td><td>/*Ec man iotna ¦*/</td></tr>
+   <tr><td class="audio_2_line">ár um borna#bera#,</td><td>/*ár um borna*/</td></tr>
+   <tr><td class="audio_2_line">þá#sá# er forðum mik#ek#</td><td>/*þa er fordom mic */</td></tr>
+   <tr><td class="audio_2_line">fædda#fæða# höfðu#hafa#;</td><td>/*fǫdda hofdo*/</td></tr>
+   <tr><td class="audio_2_line">níu man#muna# ek heima#heimr#,</td><td>/*nio man æc heima ¦*/</td></tr>
+   <tr><td class="audio_2_line">níu íviðjur#íviðja#,</td><td>/*nío iviþi*/</td></tr>
+   <tr><td class="audio_2_line">mjötvið#mjötviðr# mæran#mærr#</td><td>/*miot uið mǫraN*/</td></tr>
+   <tr><td class="audio_2_line">fyr mold neðan.||</td><td>/*fyr mold nedan.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_3" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.3*/</td><td>/**/</td></tr>
+   <tr><td class="audio_3_line">Ár#ár# var#vera# alda#öld#</td><td>/*Ar uar alda*/</td></tr>
+   <tr><td class="audio_3_line">þar er Ymir#Ymir# byggði#byggja#,</td><td>/*þar ¦ er ymir bygði*/</td></tr>
+   <tr><td class="audio_3_line">var#vera#|a sandr né sær#sjór#</td><td>/*vara sandr nę sęr*/</td></tr>
+   <tr><td class="audio_3_line">né svalar#svalr# unnir#unnr#,</td><td>/*ne sualar uNir*/</td></tr>
+   <tr><td class="audio_3_line">jörð fannz#finna# æva</td><td>/*orð faNz ¦ ęva*/</td></tr>
+   <tr><td class="audio_3_line">né upphiminn,</td><td>/*ne upp himin*/</td></tr>
+   <tr><td class="audio_3_line">gap var#vera# ginnunga#ginnungi#</td><td>/*gap uar giNvnga*/</td></tr>
+   <tr><td class="audio_3_line">en gras hvergi.||</td><td>/*eN gras hvergi.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+<page>
+
+<h2>/*Vsp. 4-6*/||</h2>
+<table>
+   <tr><td><audio id="audio_4" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.4*/</td><td>/**/</td></tr>
+   <tr><td class="audio_4_line">Áðr#áðr# Burs#Burr# synir#sonr#</td><td>/*Adr bvrs ¦ synir*/</td></tr>
+   <tr><td class="audio_4_line">bjöðum#bjöð# um yppðu#yppa#,</td><td>/*bioðom um ypðo*/</td></tr>
+   <tr><td class="audio_4_line">þeir#sá# er Miðgarð#Miðgarðr#</td><td>/*þeir er mið garð*/</td></tr>
+   <tr><td class="audio_4_line">mæran#mærr# skópu#skapa#;</td><td>/*mǫran scopo.*/</td></tr>
+   <tr><td class="audio_4_line">sól skein#skína# sunnan</td><td>/*sol scein ¦ suNan*/</td></tr>
+   <tr><td class="audio_4_line">á salar#salr# steina#steinn#,</td><td>/*a salar steina*/</td></tr>
+   <tr><td class="audio_4_line">þá var#vera# grund gróin#gróa#</td><td>/*þa var grvnd groin*/</td></tr>
+   <tr><td class="audio_4_line">grænum#grænn# lauki#laukr#.||</td><td>/*rǫnom lauki. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_5" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.5*/</td><td>/**/</td></tr>
+   <tr><td class="audio_5_line">Sól#sól# varp#verpa# sunnan,</td><td>/*Sol varp svNan*/</td></tr>
+   <tr><td class="audio_5_line">sinni mána#máni#,</td><td>/*siNi mana*/</td></tr>
+   <tr><td class="audio_5_line">hendi#hönd# inni#inn# hægri</td><td>/*hendi iNi hǫgri*/</td></tr>
+   <tr><td class="audio_5_line">um himinjódýr;</td><td>/*vm himin iodyr ¦*/</td></tr>
+   <tr><td class="audio_5_line">sól það#sá# né vissi#vita#</td><td>/*sol þat ne uissi*/</td></tr>
+   <tr><td class="audio_5_line">hvar hon sali#salr# átti#eiga#,</td><td>/*huar hon sali atti*/</td></tr>
+   <tr><td class="audio_5_line">stjörnur#stjarna# það#sá# né vissu#vita#</td><td>/*stiornor þat ne visso*/</td></tr>
+   <tr><td class="audio_5_line">hvar þær#sá# staði#staðr# áttu#eiga#,</td><td>/*hvar ¦ þęr staði atto*/</td></tr>
+   <tr><td class="audio_5_line">máni það#sá# né vissi#vita#</td><td>/*mani þat ne vissi*/</td></tr>
+   <tr><td class="audio_5_line">hvað#hvat# hann megins#megin# átti#eiga#.||</td><td>/*hvat hann megins atti.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_6" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.6*/</td><td>/**/</td></tr>
+   <tr><td class="audio_6_line">Þá#þá# gengu#ganga# regin öll#allr#</td><td>/*Þa gen¦gengo regin oll*/</td></tr>
+   <tr><td class="audio_6_line">á rökstóla#røkstóll#,</td><td>/*ara/k stola*/</td></tr>
+   <tr><td class="audio_6_line">ginnheilög#ginnheilagr# goð,</td><td>/*giNhęilog god*/</td></tr>
+   <tr><td class="audio_6_line">ok um það#sá# gættuz#gæta#:</td><td>/*oc vm þat gęttvz ¦*/</td></tr>
+   <tr><td class="audio_6_line">Nótt#nátt# ok niðjum#niðr#</td><td>/*nott oc niþiom*/</td></tr>
+   <tr><td class="audio_6_line">nöfn#nafn# um gáfu#gefa#,</td><td>/*na/fn vm gafo*/</td></tr>
+   <tr><td class="audio_6_line">morgin#morginn# hétu#heita#</td><td>/*morgin heto*/</td></tr>
+   <tr><td class="audio_6_line">ok miðjan#miðr# dag#dagr#,</td><td>/*oc miðian dag*/</td></tr>
+   <tr><td class="audio_6_line">undorn#undorn# ok aftan#aftann#,</td><td>/*vn¦dorn oc aptan*/</td></tr>
+   <tr><td class="audio_6_line">árum#ár# að#at# telja.||</td><td>/*árom at telia.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 7-9*/||</h2>
+<table>
+   <tr><td><audio id="audio_7" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.7*/</td><td>/**/</td></tr>
+   <tr><td class="audio_7_line">Hittuz#hitta# æsir#áss#</td><td>/*Hittoz æsir*/</td></tr>
+   <tr><td class="audio_7_line">á Iðavelli#Iðavöllr#,</td><td>/*a ida uelli*/</td></tr>
+   <tr><td class="audio_7_line">þeir#sá# er hörg#hörgr# ok hof</td><td>/*þeir ¦ er ha/rg oc hof*/</td></tr>
+   <tr><td class="audio_7_line">hátimbruðu#hátimbra#;</td><td>/*hatimbroðo.*/</td></tr>
+   <tr><td class="audio_7_line">afla#afl# lögðu#leggja#,</td><td>/*afla la/gðo*/</td></tr>
+   <tr><td class="audio_7_line">auð#auðr# smíðuðu#smíða#,</td><td>/*a/ð smiðoþo*/</td></tr>
+   <tr><td class="audio_7_line">tangir#töng# skópu#skapa#</td><td>/*tangir ¦ scopo*/</td></tr>
+   <tr><td class="audio_7_line">ok tól gjörðu#gera#.||</td><td>/*oc tol gorðo.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_8" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.8*/</td><td>/**/</td></tr>
+   <tr><td class="audio_8_line">Teflðu#tefla# í túni#tún#,</td><td>/*Teflðo itvni*/</td></tr>
+   <tr><td class="audio_8_line">teitir#teitr# vóru#vera#,</td><td>/*teitir voro*/</td></tr>
+   <tr><td class="audio_8_line">var#vera# þeim#sá# vettergis#vættki#</td><td>/*var þeim vettergis ¦*/</td></tr>
+   <tr><td class="audio_8_line">vant#vanr# ór gulli#gull#</td><td>/*vant or gulli.*/</td></tr>
+   <tr><td class="audio_8_line">unz þrjár#3# kvómu#koma#</td><td>/*vNz III. qvomo*/</td></tr>
+   <tr><td class="audio_8_line">þursa#þurs# meyjar#mær#</td><td>/*þursa meyiar*/</td></tr>
+   <tr><td class="audio_8_line">ámáttkar#ámáttigr# mjök</td><td>/*amatkar ¦ mioc*/</td></tr>
+   <tr><td class="audio_8_line">ór jötunheimum#jötunheimr#.||</td><td>/*or iotvn heimom.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_9" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.9*/</td><td>/**/</td></tr>
+   <tr><td class="audio_9_line">Þá#þá# gengu#ganga# regin öll#allr#</td><td>/*Þa g. r. a. ar.*/</td></tr>
+   <tr><td class="audio_9_line">á rökstóla#røkstóll#,</td><td>/**/</td></tr>
+   <tr><td class="audio_9_line">ginnheilög goð,</td><td>/**/</td></tr>
+   <tr><td class="audio_9_line">ok um það gættuz</td><td>/**/</td></tr>
+   <tr><td class="audio_9_line">hverr skyldi#skulu# dverga#dvergr#</td><td>/*hverr scyldi duerga ¦*/</td></tr>
+   <tr><td class="audio_9_line">dróttin#dróttinn# skepja</td><td>/*drotin scepia*/</td></tr>
+   <tr><td class="audio_9_line">ór Brimis#Brimir# blóði#blóð#</td><td>/*or brimis bloði*/</td></tr>
+   <tr><td class="audio_9_line">ok ór blám#blár# leggjum#leggr#.||</td><td>/*oc or blam leGiom.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 10-12*/||</h2>
+<table>
+   <tr><td><audio id="audio_10" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.10*/</td><td>/**/</td></tr>
+   <tr><td class="audio_10_line">Þar#þar# var Mótsognir#Mótsognir#</td><td>/*Þar mot¦sognir*/</td></tr>
+   <tr><td class="audio_10_line">mæztr#mætr# um orðinn#verða#</td><td>/*mǫztr vm orðinn*/</td></tr>
+   <tr><td class="audio_10_line">dverga#dvergr# allra#allr#</td><td>/*dverga allra*/</td></tr>
+   <tr><td class="audio_10_line">en Durinn#Durinn# annarr;</td><td>/*eN dvriN aNaR*/</td></tr>
+   <tr><td class="audio_10_line">þeir#sá# mannlíkun#mannlíkan#</td><td>/*þeir man¦licon*/</td></tr>
+   <tr><td class="audio_10_line">mörg#margr# um gjörðu#gera#,</td><td>/*morg vm gorðo*/</td></tr>
+   <tr><td class="audio_10_line">dvergar#dvergr#, ór jörðu#jörð#</td><td>/*dvergar or iorðo*/</td></tr>
+   <tr><td class="audio_10_line">sem Durinn#Durinn# sagði#segja#.||</td><td>/*sem dvriN sagdi.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_11" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.11*/</td><td>/**/</td></tr>
+   <tr><td class="audio_11_line">Nýi#Nýi# ok Niði#Niði#,</td><td>/*Nyi ¦ oc niþi*/</td></tr>
+   <tr><td class="audio_11_line">Norðri#Norðri# ok Suðri#Suðri#,</td><td>/*norðri oc suðri*/</td></tr>
+   <tr><td class="audio_11_line">Austri#Austri# ok Vestri#Vestri#,</td><td>/*a/stri oc uestri*/</td></tr>
+   <tr><td class="audio_11_line">Alþjófr#Alþjófr#, Dvalinn#Dvalinn#,</td><td>/*alþiofr dvaliN.*/</td></tr>
+   <tr><td class="audio_11_line">Bífurr#Bífurr#, Báfurr#Báfurr#,</td><td>/*biv¦a/R bava/R*/</td></tr>
+   <tr><td class="audio_11_line">Bömburr#Bömburr#, Nóri#Nóri#,</td><td>/*ba/mbuR nori*/</td></tr>
+   <tr><td class="audio_11_line">Án#Án# ok Ánarr#Ánarr#,</td><td>/*án oc anaR*/</td></tr>
+   <tr><td class="audio_11_line">Ái#Ái#, Mjöðvitnir#Mjöðvitnir#.||</td><td>/*ai mioðvitnir.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_12" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.12*/</td><td>/**/</td></tr>
+   <tr><td class="audio_12_line">Veigr#Veigr# ok Gandálfr#Gandalfr#,</td><td>/*Veigr ¦ oc gandalfr*/</td></tr>
+   <tr><td class="audio_12_line">Vindálfr#Vindalfr#, Þráinn#Þráinn#,</td><td>/*vindalfr þraiN*/</td></tr>
+   <tr><td class="audio_12_line">Þekkr#Þekkr# ok Þorinn#Þorinn#,</td><td>/*þeccr oc þoriN*/</td></tr>
+   <tr><td class="audio_12_line">Þrór#Þrór#, Vitr#Vitr# ok Litr#Litr#,</td><td>/*þror vitr oc litr ¦*/</td></tr>
+   <tr><td class="audio_12_line">Nár#Nár# ok Nýráðr#Nýráðr#,</td><td>/*nár oc nyraþr*/</td></tr>
+   <tr><td class="audio_12_line">nú hefi#hafa# ek dverga#dvergr#,</td><td>/*nv hefi ec dverga*/</td></tr>
+   <tr><td class="audio_12_line">Reginn#Reginn# ok Ráðsviðr#Ráðsviðr#,</td><td>/*regiN oc raðsuidr*/</td></tr>
+   <tr><td class="audio_12_line">rétt#réttr# um talða#telja#.||</td><td>/*rett ¦ um talþa.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 13-15*/||</h2>
+<table>
+   <tr><td><audio id="audio_13" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.13*/</td><td>/**/</td></tr>
+   <tr><td class="audio_13_line">Fíli#Fíli#, Kíli#Kíli#,</td><td>/*Fili kili*/</td></tr>
+   <tr><td class="audio_13_line">Fundinn#Fundinn#, Náli#Náli#,</td><td>/*fvndiN. nali.*/</td></tr>
+   <tr><td class="audio_13_line">Hefti#Hefti#, Víli#Víli#,</td><td>/*hepti. vili*/</td></tr>
+   <tr><td class="audio_13_line">Hanarr#Hanarr#, Sví#Svíurr#,</td><td>/*hanaR svi¦oR.*/</td></tr>
+   <tr><td class="audio_13_line">Frár#Frár#, Hornbori#Hornbori#,</td><td>/*frar hornbori.*/</td></tr>
+   <tr><td class="audio_13_line">Frægr#Frægr# ok Lóni#Lóni#,</td><td>/*fregr oc loni.*/</td></tr>
+   <tr><td class="audio_13_line">Aurvangr#Aurvangr#, Jari#Jari#,</td><td>/*a/rvangr. iari*/</td></tr>
+   <tr><td class="audio_13_line">Eikinskjaldi#Eikinskjaldi#.||</td><td>/*eikins¦cialdi.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_14" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.14*/</td><td>/**/</td></tr>
+   <tr><td class="audio_14_line">Mál#mál# er#vera# dverga#dvergr#</td><td>/*Mal er dverga*/</td></tr>
+   <tr><td class="audio_14_line">í Dvalins#Dvalinn# liði#lið#</td><td>/*idvaliNs liði*/</td></tr>
+   <tr><td class="audio_14_line">ljóna#ljónar# kindum#kind#</td><td>/*liona kindom*/</td></tr>
+   <tr><td class="audio_14_line">til Lofars#Lofarr# telja,</td><td>/*til lofa¦rs telia.*/</td></tr>
+   <tr><td class="audio_14_line">þeir#sá# er sóttu#sækja#</td><td>/*þeir er sotto*/</td></tr>
+   <tr><td class="audio_14_line">frá salar#salr# steini#steinn#</td><td>/*fra salar stæini*/</td></tr>
+   <tr><td class="audio_14_line">aurvanga#aurvangr# sjöt</td><td>/*a/rvanga sia/tt*/</td></tr>
+   <tr><td class="audio_14_line">til Jöruvalla#Jöruvellir#.||</td><td>/*til ¦ ióro valla.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_15" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.15*/</td><td>/**/</td></tr>
+   <tr><td class="audio_15_line">Þar#þar# var#vera# Draupnir#Draupnir#</td><td>/*Þar var dra/pnir*/</td></tr>
+   <tr><td class="audio_15_line">ok Dólgþrasir#Dolgþrasir#,</td><td>/*oc dolgþrasir*/</td></tr>
+   <tr><td class="audio_15_line">Hár#Hár#, Haugspori#Haugspori#,</td><td>/*hár ha/g spori ¦*/</td></tr>
+   <tr><td class="audio_15_line">Hlévangr#Hlévangr#, Glói#Glói#,</td><td>/*hlevangr gloi.*/</td></tr>
+   <tr><td class="audio_15_line">Skirfir#Skirfir#, Virfir#Virfir#,</td><td>/*scirvir. virvir.*/</td></tr>
+   <tr><td class="audio_15_line">Skáfiðr#Skáfiðr#, Ái#Ái#,</td><td>/*scafiþr. ai.*/</td></tr>
+   <tr><td class="audio_15_line">Álfr#Alfr# ok Yngvi#Yngvi#,</td><td>/*alfr oc yngvi ¦*/</td></tr>
+   <tr><td class="audio_15_line">Eikinskjaldi#Eikinskjaldi#,</td><td>/*eikinscialdi.*/</td></tr>
+   <tr><td class="audio_15_line">Fjalarr#Fjalarr# ok Frosti#Frosti#,</td><td>/*fialaR oc frostri*/</td></tr>
+   <tr><td class="audio_15_line">Finnr#Finnr# ok Ginnarr#Ginnarr#;</td><td>/*fiNr oc giNaR.*/</td></tr>
+   <tr><td class="audio_15_line">það#sá# mun#munu# uppi,</td><td>/*þat mvn vppi ¦¦*/</td></tr>
+   <tr><td class="audio_15_line">meðan öld lifir#lifa#,</td><td>/*meþan a/ld lifir*/</td></tr>
+   <tr><td class="audio_15_line">langniðja#langniðr# tal</td><td>/*langniþia tal*/</td></tr>
+   <tr><td class="audio_15_line">Lofars#Lofarr# hafað#hafa#.||</td><td>/*lofars hafat.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 16-18*/||</h2>
+<table>
+   <tr><td><audio id="audio_16" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.16*/</td><td>/**/</td></tr>
+   <tr><td class="audio_16_line">Unz#unz# þrír kvómu#koma#</td><td>/*Vnz þriár qvomo ¦*/</td></tr>
+   <tr><td class="audio_16_line">ór því#sá# liði#lið#</td><td>/*or þvi liþi*/</td></tr>
+   <tr><td class="audio_16_line">öflgir#öflugr# ok ástgir#ástugr#</td><td>/*a/flgir oc astgir*/</td></tr>
+   <tr><td class="audio_16_line">æsir#áss# að#at# húsi#hús#,</td><td>/*ęsir at hvsi.*/</td></tr>
+   <tr><td class="audio_16_line">fundu#finna# á landi#land#</td><td>/*fvndo alandi*/</td></tr>
+   <tr><td class="audio_16_line">lítt megandi#mega#</td><td>/*litt ¦ megandi*/</td></tr>
+   <tr><td class="audio_16_line">Ask#Askr# ok Emblu#Embla#</td><td>/*asc oc emblo*/</td></tr>
+   <tr><td class="audio_16_line">örlöglausa#ørlöglauss#;</td><td>/*orla/gla/sa.*/</td></tr>   
+   <tr><td class="audio_16_line">önd þau#sá# né áttu#eiga#,</td><td>/*a/nd þa/ ne átto*/</td></tr>
+   <tr><td class="audio_16_line">óð#óðr# þau#sá# né höfðu#hafa#,</td><td>/*óþ þav ¦ ne ha/fðo*/</td></tr>
+   <tr><td class="audio_16_line">lá né læti</td><td>/*la ne leti*/</td></tr>
+   <tr><td class="audio_16_line">né litu#litr# góða#góðr#.||</td><td>/*ne lito goða.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_18" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.17*/</td><td>/**/</td></tr>   
+   <tr><td class="audio_18_line">Önd#önd# gaf#gefa# Óðinn#Óðinn#,</td><td>/*Aund gaf oþiN*/</td></tr>
+   <tr><td class="audio_18_line">óð#óðr# gaf#gefa# Hænir#Hænir#,</td><td>/*oþ ¦ gaf hęnir*/</td></tr>
+   <tr><td class="audio_18_line">lá gaf#gefa# Lóðurr#Lóðurr#</td><td>/*la gaf loðvR*/</td></tr>
+   <tr><td class="audio_18_line">ok litu#litr# góða#góðr#.||</td><td>/*oc lito goða.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_19" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.18*/</td><td>/**/</td></tr>
+   <tr><td class="audio_19_line">Ask#askr# veit#vita# ek standa,</td><td>/*Asc ueit ec standa ¦*/</td></tr>
+   <tr><td class="audio_19_line">heitir#heita# Yggdrasill#Yggdrasill#,</td><td>/*heitir yGdrasill*/</td></tr>
+   <tr><td class="audio_19_line">hár baðmr, ausinn#ausa#</td><td>/*hárbaðmr ausiN*/</td></tr>
+   <tr><td class="audio_19_line">hvítaauri#hvítaaurr#;</td><td>/*huíta aúri.*/</td></tr>
+   <tr><td class="audio_19_line">þaðan koma döggvar#dögg#</td><td>/*þaðan coma ¦ da/Gvar*/</td></tr>
+   <tr><td class="audio_19_line">þær|s#sá# í dala#dalr# falla;</td><td>/*þęrs idala falla*/</td></tr>
+   <tr><td class="audio_19_line">stendr#standa# æ yfir grænn</td><td>/*stendr ę yfir grǫN*/</td></tr>
+   <tr><td class="audio_19_line">Urðar#Urðr# brunni#brunnr#.||</td><td>/*vrðar brvNi. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 19-23*/||</h2>
+<table>
+   <tr><td><audio id="audio_20" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.19*/</td><td>/**/</td></tr>
+   <tr><td class="audio_20_line">Þaðan#þaðan# koma meyjar#mær#</td><td>/*Þaðan coma meyiar*/</td></tr>
+   <tr><td class="audio_20_line">margs#margr# vitandi#vita#</td><td>/*margs uitandi*/</td></tr>
+   <tr><td class="audio_20_line">þrjár#þrír# ór þeim#sá# sæ#sjór#</td><td>/*þriar or þeim sę*/</td></tr>
+   <tr><td class="audio_20_line">er und þolli#þollr# stendr#standa#,</td><td>/*er und ¦ þolli stendr*/</td></tr>
+   <tr><td class="audio_20_line">Urð#Urðr# hétu#heita# eina#einn#,</td><td>/*vrð héto eina*/</td></tr>
+   <tr><td class="audio_20_line">aðra#annarr# Verðandi#Verðandi#,</td><td>/*aðra verþandi*/</td></tr>
+   <tr><td class="audio_20_line">skáru#skera# á skíði#skíð#,</td><td>/*scáro asciði*/</td></tr>
+   <tr><td class="audio_20_line">Skuld#Skuld# ina#inn# þriðju#þriði#.||</td><td>/*scvld ¦ ena þriðio.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_21" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.20*/</td><td>/**/</td></tr>
+   <tr><td class="audio_21_line">Þær#sá# lög lögðu#leggja#,</td><td>/*Þęr la/g la/gðo*/</td></tr>
+   <tr><td class="audio_21_line">þær#sá# líf kuru#kjósa#</td><td>/*þęr líf kvro*/</td></tr>
+   <tr><td class="audio_21_line">alda#öld# börnum#barn#,</td><td>/*alda bornom*/</td></tr>
+   <tr><td class="audio_21_line">ör#ørlög# seggja#seggr#.||</td><td>/*ór¦la/g seGia.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_22" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.21*/</td><td>/**/</td></tr>
+   <tr><td class="audio_22_line">Það#sá# man#muna# hon fólkvíg#folkvíg#</td><td>/*Þat man hon folc uíg*/</td></tr>
+   <tr><td class="audio_22_line">fyrst#fyrri# í heimi#heimr#</td><td>/*fyrst iheimi*/</td></tr>
+   <tr><td class="audio_22_line">er Gullveig#Gullveig#</td><td>/*er gvll ueig ¦*/</td></tr>
+   <tr><td class="audio_22_line">geirum#geirr# studdu#styðja#</td><td>/*geirom stvddv*/</td></tr>
+   <tr><td class="audio_22_line">ok í höll Hárs#Hárr#</td><td>/*oc iha/ll hárs*/</td></tr>
+   <tr><td class="audio_22_line">hana#hon# brenndu#brenna#.||</td><td>/*hana brendo.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_23" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.22*/</td><td>/**/</td></tr>
+   <tr><td class="audio_23_line">Þrysvar#þrysvar# brenndu#brenna#</td><td>/*Þrysvar brendo ¦*/</td></tr>
+   <tr><td class="audio_23_line">þrysvar borna#bera#,</td><td>/*þrysvar borna*/</td></tr>
+   <tr><td class="audio_23_line">oft, ósjaldan;</td><td>/*opt osialdan,*/</td></tr>
+   <tr><td class="audio_23_line">þó hon enn lifir#lifa#.||</td><td>/*þo hon eN lifir.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_24" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.23*/</td><td>/**/</td></tr>
+   <tr><td class="audio_24_line">Heiði#Heiðr# hana#hon# hétu#heita#</td><td>/*Heidi hána ¦ heto*/</td></tr>
+   <tr><td class="audio_24_line">hvar|s#er# til húsa#hús# kom#koma#,</td><td>/*hvars til hvsa com*/</td></tr>
+   <tr><td class="audio_24_line">völu#völva# velspá#velspár#,</td><td>/*uólo vel spá*/</td></tr>
+   <tr><td class="audio_24_line">vitti#vitta# hon ganda#gandr#;</td><td>/*uitti hon ganda*/</td></tr>
+   <tr><td class="audio_24_line">seið#seiðr# hon kunni#kunna#,</td><td>/*seið ¦ hon kvNi*/</td></tr>
+   <tr><td class="audio_24_line">seið#síða# hon leikinn#leika#,</td><td>/*seiþ hon leikIN*/</td></tr>
+   <tr><td class="audio_24_line">æ var#vera# hon angan</td><td>/*ę var hon angan*/</td></tr>
+   <tr><td class="audio_24_line">illrar#illr# brúðar#brúðr#.||</td><td>/*illrar brvðar. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 24-26*/||</h2>
+<table>
+   <tr><td><audio id="audio_25" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.24*/</td><td>/**/</td></tr>
+   <tr><td class="audio_25_line">Þá#þá# gengu#ganga# regin öll#allr#</td><td>/*Þa g. r. a. a.*/</td></tr>
+   <tr><td class="audio_25_line">á rökstóla,</td><td>/**/</td></tr>
+   <tr><td class="audio_25_line">ginnheilög goð,</td><td>/**/</td></tr>
+   <tr><td class="audio_25_line">ok um það gættuz</td><td>/**/</td></tr>
+   <tr><td class="audio_25_line">hvárt#hvárr# skyldu#skulu# æsir#áss#</td><td>/*huart scyldo ęsir*/</td></tr>
+   <tr><td class="audio_25_line">afráð gjalda</td><td>/*afrað gialda*/</td></tr>
+   <tr><td class="audio_25_line">eða skyldu#skulu# goðin#goð# öll#allr#</td><td>/*eþa scyldo goðin ¦ a/ll*/</td></tr>
+   <tr><td class="audio_25_line">gildi eiga.||</td><td>/*gildi eiga.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_26" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.25*/</td><td>/**/</td></tr>
+   <tr><td class="audio_26_line">Fleygði#fleygja# Óðinn#Óðinn#</td><td>/*Fleygði oðiN*/</td></tr>
+   <tr><td class="audio_26_line">ok í fólk#folk# um skaut#skjóta#,</td><td>/*oc ifolc um scá/t*/</td></tr>
+   <tr><td class="audio_26_line">það#sá# var#vera# enn folkvíg#folkvíg#</td><td>/*þat var eN folc ¦ vig*/</td></tr>
+   <tr><td class="audio_26_line">fyrst#fyrri# í heimi#heimr#;</td><td>/*fyrst ihęimi.*/</td></tr>
+   <tr><td class="audio_26_line">brotinn#brjóta# var#vera# borðvegr</td><td>/*brotiN var borð uegr*/</td></tr>
+   <tr><td class="audio_26_line">borgar#borg# ása#áss#,</td><td>/*borgar asa*/</td></tr>
+   <tr><td class="audio_26_line">knáttu#knega# vanir#vanr# vígspá</td><td>/*knatto ¦ vanir uigspa*/</td></tr>
+   <tr><td class="audio_26_line">völlu#völlr# sporna.||</td><td>/*uollo sporna.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_27" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.26*/</td><td>/**/</td></tr>
+   <tr><td class="audio_27_line">Þá#þá# gengu#ganga# regin öll#allr#</td><td>/*Þa g. r. a.*/</td></tr>
+   <tr><td class="audio_27_line">á rökstóla,</td><td>/**/</td></tr>
+   <tr><td class="audio_27_line">ginnheilög goð,</td><td>/**/</td></tr>
+   <tr><td class="audio_27_line">ok um það gættuz</td><td>/**/</td></tr>
+   <tr><td class="audio_27_line">hverir#hverr# hefði#hafa# loft allt#allr#</td><td>/*hverir hefði lopt ¦ alt*/</td></tr>
+   <tr><td class="audio_27_line">lævi#læ# blandið#blanda#</td><td>/*lęvi blandit*/</td></tr>
+   <tr><td class="audio_27_line">eða ætt jötuns#jötunn#</td><td>/*eþa ętt iotvns*/</td></tr>
+   <tr><td class="audio_27_line">Óðs#Óðr# mey#mær# gefna#gefa#.||</td><td>/*oþs mey gefna.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 27-29*/||</h2>
+<table>
+   <tr><td><audio id="audio_28" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.27*/</td><td>/**/</td></tr>
+   <tr><td class="audio_28_line">Þórr#Þórr# einn þar var#vera#,</td><td>/*Þorr eiN ¦ þar var*/</td></tr>
+   <tr><td class="audio_28_line">þrunginn#þrøngva# móði#móðr#,</td><td>/*þrvngin moði*/</td></tr>
+   <tr><td class="audio_28_line">hann sjaldan sitr#sitja#</td><td>/*hann sialdan sitr*/</td></tr>
+   <tr><td class="audio_28_line">er hann slíkt#slíkr# um fregn#fregna#;</td><td>/*er hann slict vm fregn*/</td></tr>
+   <tr><td class="audio_28_line">á genguz#ganga# eiðar#eiðr#,</td><td>/*age¦ngoz eiðar*/</td></tr>
+   <tr><td class="audio_28_line">orð ok særi,</td><td>/*orð oc sęri*/</td></tr>
+   <tr><td class="audio_28_line">mál öll#allr# meginlig#meginligr#</td><td>/*mál a/ll megin lig*/</td></tr>
+   <tr><td class="audio_28_line">er á meðal fóru#fara#.||</td><td>/*er amedal fóro. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_29" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.28*/</td><td>/**/</td></tr>
+   <tr><td class="audio_29_line">Veit#vita# hon Heimdalar#Heimdallr#</td><td>/*Veit hon heimdalar*/</td></tr>
+   <tr><td class="audio_29_line">hljóð um fólgið#fela#</td><td>/*hlioð vm folgit*/</td></tr>
+   <tr><td class="audio_29_line">undir heiðvönum#heiðvanr#</td><td>/*undir heiðvonom*/</td></tr>
+   <tr><td class="audio_29_line">helgum#heilagr# baðmi#baðmr#;</td><td>/*helgom ¦ baðmi.*/</td></tr>
+   <tr><td class="audio_29_line">á sér#sjá# hon ausaz#ausa#</td><td>/*á sér hon a/saz*/</td></tr>
+   <tr><td class="audio_29_line">aurgum#aurugr# forsi#fors#</td><td>/*a/rgom forsi*/</td></tr>
+   <tr><td class="audio_29_line">af veði#veð# Valföðrs#Valföðr#;</td><td>/*af ueði val fa/drs*/</td></tr>
+   <tr><td class="audio_29_line">vituð#vita# ér enn, eða hvað#hvat#?||</td><td>/*uit¦oþ er en e. hvat.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_30" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.29*/</td><td>/**/</td></tr>
+   <tr><td class="audio_30_line">Ein#einn# sat#sitja# hon úti</td><td>/*Eín sat hon uti*/</td></tr>
+   <tr><td class="audio_30_line">þá er inn aldni#aldinn# kom#koma#,</td><td>/*þa er iN aldni com*/</td></tr>
+   <tr><td class="audio_30_line">yggjungr#Yggjungr# ása#áss#,</td><td>/*yGióngr ¦ asa*/</td></tr>
+   <tr><td class="audio_30_line">ok í augu#auga# leit#líta#:</td><td>/*oc ia/go leit.*/</td></tr>
+   <tr><td class="audio_30_line">Hvers#hverr# fregnið#fregna# mik#ek#?</td><td>/*hvers fregnit mic*/</td></tr>
+   <tr><td class="audio_30_line">Hví#hvat# freistið#freista# mín#ek#?</td><td>/*hvi freistiþ min*/</td></tr>
+   <tr><td class="audio_30_line">Allt#allr# veit#vita# ek, Óðinn#Óðinn#,</td><td>/*alt ¦ ueit ec oðiN*/</td></tr>
+   <tr><td class="audio_30_line">hvar þú auga falt#fela#:</td><td>/*hvar þv a/ga falt*/</td></tr>
+   <tr><td class="audio_30_line">Í#í# inum#inn# mæra#mærr#</td><td>/*ienom męra*/</td></tr>
+   <tr><td class="audio_30_line">Mímis#Mímir# brunni#brunnr#!</td><td>/*mimis ¦ brvNi*/</td></tr>
+   <tr><td class="audio_30_line">Drekkr#drekka# mjöð#mjöðr# Mímir#Mímir#</td><td>/*dreckr mióð mimir*/</td></tr>
+   <tr><td class="audio_30_line">morgin#morginn# hverjan#hverr#</td><td>/*morgin hverian*/</td></tr>
+   <tr><td class="audio_30_line">af veði#veð# Valföðrs#Valföðr#;</td><td>/*af veþi v.*/</td></tr>
+   <tr><td class="audio_30_line">vituð#vita# ér enn, hvað#hvat#?||</td><td>/*v. e. e. h. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 30-32*/||</h2>
+<table>
+   <tr><td><audio id="audio_31" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.30*/</td><td>/**/</td></tr>
+   <tr><td class="audio_31_line">Valði#velja# henni#hon# Herföðr#Herföðr#</td><td>/*Valþi henne herfa/ðr*/</td></tr>
+   <tr><td class="audio_31_line">hringa#hringr# ok men,</td><td>/*hringa oc men*/</td></tr>
+   <tr><td class="audio_31_line">féspjöll#féspjall# spaklig#spakligr#</td><td>/*fe spioll spaclig*/</td></tr>
+   <tr><td class="audio_31_line">ok spáganda#spágandr#,</td><td>/*oc spa ¦*/</td></tr>
+   <tr><td class="audio_31_line">sá#sjá# hon vítt#víðr# ok um vítt#víðr#,</td><td>/*sa hon uitt oc vm vitt*/</td></tr>
+   <tr><td class="audio_31_line">of veröld hverja#hverr#.||</td><td>/*of verold hveria.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_32" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.31*/</td><td>/**/</td></tr>
+   <tr><td class="audio_32_line">Sá#sjá# hon valkyrjur#valkyrja#,</td><td>/*Sa hon valkyr¦ior*/</td></tr>
+   <tr><td class="audio_32_line">vítt#víðr# um komnar#koma#,</td><td>/*vítt vm komnar*/</td></tr>
+   <tr><td class="audio_32_line">görvar#gera# að#at# ríða</td><td>/*ga/rvar at riða*/</td></tr>
+   <tr><td class="audio_32_line">til goðþjóðar#goðþjóð#;</td><td>/*til goðþioðar.*/</td></tr>
+   <tr><td class="audio_32_line">Skuld#Skuld# helt#halda# skildi#skjöldr#</td><td>/*scvld ¦ helt scildi*/</td></tr>
+   <tr><td class="audio_32_line">en Skögul#Skögul# önnur#annarr#,</td><td>/*enn sca/gul a/Nor*/</td></tr>
+   <tr><td class="audio_32_line">Gunnr#Gunnr#, Hildr#Hildr#, Göndul#Göndul#</td><td>/*gvNr. hildr ga/ndul*/</td></tr>
+   <tr><td class="audio_32_line">ok Geirskögul#Geirskögul#.</td><td>/*oc geir ¦¦ sca/gul.*/</td></tr>
+   <tr><td class="audio_32_line">Nú#nú# eru#vera# talðar#telja#</td><td>/*nv ero talþar*/</td></tr>
+   <tr><td class="audio_32_line">nönnur#nanna# Herjans#Herjann#,</td><td>/*na/Nor herians*/</td></tr>
+   <tr><td class="audio_32_line">görvar#gera# að#at# ríða</td><td>/*gorvar at ríþa*/</td></tr>
+   <tr><td class="audio_32_line">grund, valkyrjur#valkyrja#.||</td><td>/*grvnd ¦ valkyrior.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_33" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.32*/</td><td>/**/</td></tr>
+   <tr><td class="audio_33_line">Ek#ek# sá#sjá# Baldri#Baldr#,</td><td>/*Ec sa baldri*/</td></tr>
+   <tr><td class="audio_33_line">blóðgum#blóðigr# tívur#tívurr#,</td><td>/*blodgom tivor*/</td></tr>
+   <tr><td class="audio_33_line">Óðins#Óðinn# barni#barn#,</td><td>/*odins barni*/</td></tr>
+   <tr><td class="audio_33_line">örlög#ørlög# fólgin#fela#;</td><td>/*or log ¦ folgiN*/</td></tr>
+   <tr><td class="audio_33_line">stóð#standa# um vaxinn#vaxa#</td><td>/*stóð vm vaxiN*/</td></tr>
+   <tr><td class="audio_33_line">völlum#völlr# hæri#hár#</td><td>/*vollo hęri*/</td></tr>
+   <tr><td class="audio_33_line">mjór ok mjök fagr</td><td>/*miór oc mioc fagr*/</td></tr>
+   <tr><td class="audio_33_line">mistilteinn.||</td><td>/*mistilteiN. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 33-35*/||</h2>
+<table>
+   <tr><td><audio id="audio_34" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.33*/</td><td>/**/</td></tr>
+   <tr><td class="audio_34_line">Varð#verða# af þeim#sá# meiði#meiðr#,</td><td>/*Varð af þeim meiði*/</td></tr>
+   <tr><td class="audio_34_line">er mær#mjór# sýndiz#sýna#,</td><td>/*er mer syndiz*/</td></tr>
+   <tr><td class="audio_34_line">harmflaug hættlig#hættligr#,</td><td>/*harmfla/g hęttlig*/</td></tr>
+   <tr><td class="audio_34_line">Höðr#Höðr# nam#nema# skjóta.</td><td>/*ha/þr ¦ nam scióta.*/</td></tr>
+   <tr><td class="audio_34_line">Baldrs#Baldr# bróðir var#vera#</td><td>/*baldrs broðir*/</td></tr>
+   <tr><td class="audio_34_line">of borinn#bera# snemma,</td><td>/*vár of boriN snęmma*/</td></tr>
+   <tr><td class="audio_34_line">sá nam#nema#, Óðins#Óðinn# sonr,</td><td>/*sa nam oþins ¦ sónr*/</td></tr>
+   <tr><td class="audio_34_line">einnættr vega.||</td><td>/*ein nęttr vega.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_35" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.34*/</td><td>/**/</td></tr>
+   <tr><td class="audio_35_line">Þó#þvá# hann æva hendr#hönd#</td><td>/*Þo hann ęva hendr*/</td></tr>
+   <tr><td class="audio_35_line">né höfuð kembði#kemba#</td><td>/*ne ha/fuþ kembþi*/</td></tr>
+   <tr><td class="audio_35_line">áðr á bál um bar#bera#</td><td>/*aþr ¦ a bál vm bar*/</td></tr>
+   <tr><td class="audio_35_line">Baldrs#Baldr# andskota#andskoti#</td><td>/*baldrs andscota.*/</td></tr>
+   <tr><td class="audio_35_line">en Frigg#Frigg# um grét#gráta#</td><td>/*en friG um grét*/</td></tr>
+   <tr><td class="audio_35_line">í Fensölum#Fensalir#</td><td>/*ifensa/lom*/</td></tr>
+   <tr><td class="audio_35_line">vá Valhallar#Valhöll#;</td><td>/*ua ¦ val hallar.*/</td></tr>
+   <tr><td class="audio_35_line">vituð#vita# ér enn, eða hvað#hvat#?||</td><td>/*v. e. e. e. h.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_36" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.35*/</td><td>/**/</td></tr>
+   <tr><td class="audio_36_line">Haft#haftr# sá#sjá# hon liggja</td><td>/*Hapt sa hon liGia*/</td></tr>
+   <tr><td class="audio_36_line">undir hvera#hverr# lundi#lundr#,</td><td>/*undir hvera lundi*/</td></tr>
+   <tr><td class="audio_36_line">lægjarns#lægjarn# líki#lík#</td><td>/*lę ¦giarn lici*/</td></tr>
+   <tr><td class="audio_36_line">Loka#Loki# áþekkjan#áþekkr#;</td><td>/*loca aþeckian.*/</td></tr>
+   <tr><td class="audio_36_line">þar sitr#sitja# Sigyn#Sigyn#,</td><td>/*þar sitr sigyn*/</td></tr>
+   <tr><td class="audio_36_line">þeygi um sínum#sinn#</td><td>/*þeygi vm sinom*/</td></tr>
+   <tr><td class="audio_36_line">ver#verr# velglýjuð#velglýjaðr#;</td><td>/*ver ¦ velglyioð*/</td></tr>
+   <tr><td class="audio_36_line">vituð#vita# þér#ér# enn, hvað#hvat#?||</td><td>/*v. þ. e. h.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 36-38*/||</h2>
+<table>
+   <tr><td><audio id="audio_37" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.36*/</td><td>/**/</td></tr>
+   <tr><td class="audio_37_line">Á#á# fellr#falla# austan</td><td>/*A fellr a/stan*/</td></tr>
+   <tr><td class="audio_37_line">um eitrdala#eitrdalr#</td><td>/*um eitr dala*/</td></tr>
+   <tr><td class="audio_37_line">söxum#sax# ok sverðum#sverð#:</td><td>/*sa/xom oc sverþom ¦*/</td></tr>
+   <tr><td class="audio_37_line">Slíðr#Slíðr# heitir#heita# sú#sá#.</td><td>/*sliþr heitir sv.*/</td></tr>
+   <tr><td class="audio_37_line">Stóð#standa# fyr norðan,</td><td>/*stod fyr norðan*/</td></tr>
+   <tr><td class="audio_37_line">á Niðavöllum#Niðavellir#,</td><td>/*aniþa vollom*/</td></tr>
+   <tr><td class="audio_37_line">salr ór gulli#gull#</td><td>/*salr or gvlli*/</td></tr>
+   <tr><td class="audio_37_line">Sindra#Sindri# ættar#ætt#</td><td>/*sin¦dra ettar.*/</td></tr>
+   <tr><td class="audio_37_line">en annarr stóð#standa#</td><td>/*enn aNaR stoð*/</td></tr>
+   <tr><td class="audio_37_line">á Ókólni#Ókolnir#,</td><td>/*a okolni*/</td></tr>
+   <tr><td class="audio_37_line">bjórsalr jötuns#jötunn#,</td><td>/*bior salr iotvns*/</td></tr>
+   <tr><td class="audio_37_line">en sá Brimir#Brimir# heitir#heita#.||</td><td>/*en sa brimir ¦ heitir.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_38" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.37*/</td><td>/**/</td></tr>
+   <tr><td class="audio_38_line">Sal#salr# sá#sjá# hon standa</td><td>/*Sal sa hon standa*/</td></tr>
+   <tr><td class="audio_38_line">sólu#sól# fjarri,</td><td>/*solo fiáRi*/</td></tr>
+   <tr><td class="audio_38_line">Náströndu#Náströnd# á,</td><td>/*na strondo a*/</td></tr>
+   <tr><td class="audio_38_line">norðr horfa#horfa# dyrr;</td><td>/*norþr hor¦fa dyR.*/</td></tr>
+   <tr><td class="audio_38_line">fellu#falla# eitrdropar#eitrdropi#</td><td>/*fello eitr dropar*/</td></tr>
+   <tr><td class="audio_38_line">inn um ljóra#ljóri#,</td><td>/*iN vm lióra*/</td></tr>
+   <tr><td class="audio_38_line">sá er#vera# undinn#vinda# salr</td><td>/*sa er undiN salr*/</td></tr>
+   <tr><td class="audio_38_line">orma#ormr# hryggjum#hryggr#.||</td><td>/*orma ¦ hryGiom.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 38-40*/||</h2>
+<table>
+   <tr><td><audio id="audio_39" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.38*/</td><td>/**/</td></tr>
+   <tr><td class="audio_39_line">Sá#sjá# hon þar vaða</td><td>/*Sa hon þar vaþa*/</td></tr>
+   <tr><td class="audio_39_line">þunga#þungr# strauma#straumr#</td><td>/*þvnga stra/ma*/</td></tr>
+   <tr><td class="audio_39_line">menn#maðr# meinsvara</td><td>/*menn meinsvara*/</td></tr>
+   <tr><td class="audio_39_line">ok morðvarga</td><td>/*oc morð vargar. ¦*/</td></tr>
+   <tr><td class="audio_39_line">ok þann#sá#|z#er# annars#annarr# glepr#glepja#</td><td>/*oc þaN aNars glepr*/</td></tr>
+   <tr><td class="audio_39_line">eyrarúnu#eyrarúna#;</td><td>/*eyra rvno*/</td></tr>
+   <tr><td class="audio_39_line">þar saug#súga# Níðhöggr#Níðhöggr#</td><td>/*þar svg niþ ¦ ha/Gr*/</td></tr>
+   <tr><td class="audio_39_line">nái#nár# framgengna#framgenginn#,</td><td>/*nái fram gengna*/</td></tr>
+   <tr><td class="audio_39_line">sleit#slíta# vargr vera#verr#;</td><td>/*slęit vargr vera*/</td></tr>
+   <tr><td class="audio_39_line">vituð#vita# er#ér# enn, eða hvað#hvat#?||</td><td>/*v. e. e. e. h.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_40" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.39*/</td><td>/**/</td></tr>
+   <tr><td class="audio_40_line">Austr#austr# sat#sitja# in#inn# aldna#aldinn#</td><td>/*Avstr sát ¦ in aldna*/</td></tr>
+   <tr><td class="audio_40_line">í Járnviði#Járnviðr#</td><td>/*i iarn uiþi*/</td></tr>
+   <tr><td class="audio_40_line">ok fæddi#fæða# þar</td><td>/*oc fǫddi þar*/</td></tr>
+   <tr><td class="audio_40_line">Fenris#Fenrir# kindir#kind#;</td><td>/*fenris kindir.*/</td></tr>
+   <tr><td class="audio_40_line">verðr#verða# af þeim#sá# öllum#allr#</td><td>/*verþr af þeim ¦ a/llom*/</td></tr>
+   <tr><td class="audio_40_line">einna#einn# nokkurr#nökkurr#</td><td>/*eiNa noccorr*/</td></tr>
+   <tr><td class="audio_40_line">tungls#tungl# tjúgari</td><td>/*tvngls tivgari*/</td></tr>
+   <tr><td class="audio_40_line">í trollz#troll# hami#hamr#.||</td><td>/*itrollz hami.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_41" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.40*/</td><td>/**/</td></tr>
+   <tr><td class="audio_41_line">Fylliz#fylla# fjör|vi</td><td>/*Fylliz fior¦vi*/</td></tr>
+   <tr><td class="audio_41_line">feigra#feigr# manna#maðr#,</td><td>/*feigra manna*/</td></tr>
+   <tr><td class="audio_41_line">rýðr#rjóða# ragna#regin# sjöt</td><td>/*ryþr ragna siót*/</td></tr>
+   <tr><td class="audio_41_line">rauðum#rauðr# dreyra#dreyri#;</td><td>/*ra/ðom dreyra*/</td></tr>
+   <tr><td class="audio_41_line">svart#svartr# var#vera# þá sólskin#sólskin#</td><td>/*svart var þa sol ¦ scín*/</td></tr>
+   <tr><td class="audio_41_line">of sumur#sumar# eftir,</td><td>/*of svmor eptir*/</td></tr>
+   <tr><td class="audio_41_line">veðr öll#allr# válynd#vályndr#;</td><td>/*veþr oll valynd*/</td></tr>
+   <tr><td class="audio_41_line">vituð#vita# ér hvað#hvat#?||</td><td>/*v. e. h.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 41-43*/||</h2>
+<table>
+   <tr><td><audio id="audio_42" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.41*/</td><td>/**/</td></tr>
+   <tr><td class="audio_42_line">Sat#sitja# þar á haugi#haugr#</td><td>/*Sat þar a ha/gi ¦*/</td></tr>
+   <tr><td class="audio_42_line">ok sló#slá# hörpu#harpa#</td><td>/*oc sló ha/rpo*/</td></tr>
+   <tr><td class="audio_42_line">gýgjar#gýgr# hirðir,</td><td>/*gygiar hirþir*/</td></tr>
+   <tr><td class="audio_42_line">glaðr Eggþér#Eggþér#;</td><td>/*gladr eGþęr.*/</td></tr>
+   <tr><td class="audio_42_line">gól#gala# um hánum#hann#</td><td>/*gól vm hanom*/</td></tr>
+   <tr><td class="audio_42_line">í gaglviði#gaglviðr#</td><td>/*igagl ¦ viþi*/</td></tr>
+   <tr><td class="audio_42_line">fagrrauðr hani</td><td>/*fagr ra/dr háni*/</td></tr>
+   <tr><td class="audio_42_line">sá er Fjalarr#Fjalarr# heitir#heita#.||</td><td>/*sa er fialaR heitir.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_43" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.42*/</td><td>/**/</td></tr>
+   <tr><td class="audio_43_line">Gól#gala# um ásum#áss#</td><td>/*Gól um asom*/</td></tr>
+   <tr><td class="audio_43_line">Gullinkambi#Gullinkambi#,</td><td>/*gul¦*/</td></tr>
+   <tr><td class="audio_43_line">sá vekr#vekja# hölða#höldr#</td><td>/*sa uecr ha/lþa*/</td></tr>
+   <tr><td class="audio_43_line">að#at# Herjaföðrs#Herjaföðr#</td><td>/*at hiarar at heriafa/drs.*/</td></tr>
+   <tr><td class="audio_43_line">en annarr gelr#gala#</td><td>/*eN aNaR ¦ gelr*/</td></tr>
+   <tr><td class="audio_43_line">fyr jörð neðan,</td><td>/*fyr iorð neðan*/</td></tr>
+   <tr><td class="audio_43_line">sótrauðr hani,</td><td>/*sót rá/þr háni*/</td></tr>
+   <tr><td class="audio_43_line">að#at# sölum#salr# Heljar#Hel#.||</td><td>/*at sa/lom heliar.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_44" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.43*/</td><td>/**/</td></tr>
+   <tr><td class="audio_44_line">Geyr#geyja# Garmr#Garmr# mjök</td><td>/*Geyr ¦ garmr mioc*/</td></tr>
+   <tr><td class="audio_44_line">fyr Gnipahelli#Gnipahellir#,</td><td>/*fyr gnipa helli*/</td></tr>
+   <tr><td class="audio_44_line">festr mun#munu# slitna</td><td>/*festr mvn slitna*/</td></tr>
+   <tr><td class="audio_44_line">en Fre#Freki# renna;</td><td>/*eN fre¦ki reNa*/</td></tr>
+   <tr><td class="audio_44_line">fjölð veit#vita# hon fræða#fræði#,</td><td>/*fiolþ veit hon frǫða*/</td></tr>
+   <tr><td class="audio_44_line">fram sé#sjá# ek lengra#langr#</td><td>/*fram se ec lengra*/</td></tr>
+   <tr><td class="audio_44_line">um ragna#regin# rök#røk#</td><td>/*vm rag¦na ra/c*/</td></tr>
+   <tr><td class="audio_44_line">römm#rammr# sigtíva#sigtívar#.||</td><td>/*ra/m sigtyva.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 44-45*/||</h2>
+<table>
+   <tr><td><audio id="audio_45" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.44*/</td><td>/**/</td></tr>
+   <tr><td class="audio_45_line">Bræðr#bróðir# munu berjaz#berja#</td><td>/*Broþr mvno beriaz*/</td></tr>
+   <tr><td class="audio_45_line">ok að#at# bönum#bani# verða,</td><td>/*oc at ba/Nom ¦ verþa*/</td></tr>
+   <tr><td class="audio_45_line">munu systrungar#systrungr#</td><td>/*mvno systrvngar*/</td></tr>
+   <tr><td class="audio_45_line">sifjum#sif# spilla;</td><td>/*sifiom spilla*/</td></tr>
+   <tr><td class="audio_45_line">hart#harðr# er#vera# í heimi#heimr#,</td><td>/*hárt er i heimi*/</td></tr>
+   <tr><td class="audio_45_line">hórdómr#hórdómr# mikill,</td><td>/*hór ¦ domr micill*/</td></tr>
+   <tr><td class="audio_45_line">skeggöld, skálmöld#skalmöld#,</td><td>/*sceGa/ld scalm a/ld*/</td></tr>
+   <tr><td class="audio_45_line">skildir#skjöldr# ru#vera# klofnir#kljúfa#,</td><td>/*scildir ro klofnir*/</td></tr>
+   <tr><td class="audio_45_line">vindöld, vargöld,</td><td>/*vinda/ld ¦ varga/ld*/</td></tr>
+   <tr><td class="audio_45_line">áðr veröld steypiz#steypa#;</td><td>/*aþr verold steypiz*/</td></tr>
+   <tr><td class="audio_45_line">mun#munu# engi maðr</td><td>/*mvn engi maþr*/</td></tr>
+   <tr><td class="audio_45_line">öðrum#annarr# þyrma.||</td><td>/*oðrom þyrma. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_46" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.45*/</td><td>/**/</td></tr>
+   <tr><td class="audio_46_line">Leika#leika# Míms#Mímir# synir#sonr#</td><td>/*Leica mims synir*/</td></tr>
+   <tr><td class="audio_46_line">en mjötuðr kyndiz#kynda#</td><td>/*eN miotvðr kyndiz*/</td></tr>
+   <tr><td class="audio_46_line">að#at# inu#inn# galla#gallr#</td><td>/*at en galla*/</td></tr>
+   <tr><td class="audio_46_line">Gjallarhorni#Gjallarhorn#;</td><td>/*gial¦¦lar horni*/</td></tr>
+   <tr><td class="audio_46_line">hátt#hár# blæss#blása# Heimdallr#Heimdallr#,</td><td>/*hatt blęss heimdallr*/</td></tr>
+   <tr><td class="audio_46_line">horn er#vera# á lofti#loft#,</td><td>/*horn er alopti*/</td></tr>
+   <tr><td class="audio_46_line">mælir#mæla# Óðinn#Óðinn#</td><td>/*męlir oðiN ¦*/</td></tr>
+   <tr><td class="audio_46_line">við Míms#Mímir# höfuð;</td><td>/*við mims ha/fuþ ¦*/</td></tr>
+   <tr><td class="audio_46_line">ymr#ymja# ið#inn# aldna#aldinn# tré</td><td>/*ymr iþ aldna tre*/</td></tr>
+   <tr><td class="audio_46_line">en jötunn losnar#losna#,</td><td>/*eN iótvN losnar*/</td></tr>
+   <tr><td class="audio_46_line">skelfr#skjalfa# Yggdrasils#Yggdrasill#</td><td>/*scelfr yGdrasils*/</td></tr>
+   <tr><td class="audio_46_line">askr standandi#standa#.||</td><td>/*ascr st¦.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 46-47*/||</h2>
+<table>
+   <tr><td><audio id="audio_47" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.46*/</td><td>/**/</td></tr>
+   <tr><td class="audio_47_line">Geyr#geyja# nú Garmr#Garmr# mjök</td><td>/* Geyr nv g.*/</td></tr>
+   <tr><td class="audio_47_line">fyr Gnipahelli,</td><td>/**/</td></tr>
+   <tr><td class="audio_47_line">festr mun slitna</td><td>/**/</td></tr>
+   <tr><td class="audio_47_line">en Freki renna;</td><td>/**/</td></tr>
+   <tr><td class="audio_47_line">fjölð veit hon fræða,</td><td>/*fiolþ veit hon frǫða*/</td></tr>
+   <tr><td class="audio_47_line">fram sé ek lengra</td><td>/*fram se ec lengra*/</td></tr>
+   <tr><td class="audio_47_line">um ragna rök</td><td>/*vm rag¦na ra/c*/</td></tr>
+   <tr><td class="audio_47_line">römm sigtíva.||</td><td>/*ra/m sigtyva.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_48" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.47*/</td><td>/**/</td></tr>
+   <tr><td class="audio_48_line">Hrymr#Hrymr# ekr#aka# austan,</td><td>/*Hrymr ekr a/stan*/</td></tr>
+   <tr><td class="audio_48_line">hefiz#hafa# lind fyr;</td><td>/*hefiz lind fyr*/</td></tr>
+   <tr><td class="audio_48_line">snýz#snúa# jörmungandr</td><td>/*sn¦yz iormvngandr*/</td></tr>
+   <tr><td class="audio_48_line">í jötunmóði#jötunmóðr#;</td><td>/*i iotvn moði.*/</td></tr>
+   <tr><td class="audio_48_line">ormr knýr#knýja# unnir#unnr#</td><td>/*ormr knyr vNir*/</td></tr>
+   <tr><td class="audio_48_line">en ari hlakkar#hlakka#,</td><td>/*eN ari hl¦accar*/</td></tr>
+   <tr><td class="audio_48_line">slítr#slíta# nái#nár# neffölr;</td><td>/*slitr nai nef fa/lr*/</td></tr>
+   <tr><td class="audio_48_line">Naglfar#Naglfar# losnar#losna#.||</td><td>/*nagl far losnar.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 48-50*/||</h2>
+<table>
+   <tr><td><audio id="audio_49" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.48*/</td><td>/**/</td></tr>
+   <tr><td class="audio_49_line">Kjóll#kjóll# ferr#fara# austan#austan#,</td><td>/*Kioll feR a/s¦tan*/</td></tr>
+   <tr><td class="audio_49_line">koma munu Múspellz#Múspell#</td><td>/*koma mvno mvspellz*/</td></tr>
+   <tr><td class="audio_49_line">um lög#lögr# lýðir#lýðr#</td><td>/*vm la/g lydir*/</td></tr>
+   <tr><td class="audio_49_line">en Loki#Loki# stýrir#stýra#;</td><td>/*eN loki styrir*/</td></tr>
+   <tr><td class="audio_49_line">fara fífls#fífl# megir#mögr#</td><td>/*fara ¦ fifls megir*/</td></tr>
+   <tr><td class="audio_49_line">með freka#freki# allir#allr#,</td><td>/*meþ freka allir*/</td></tr>
+   <tr><td class="audio_49_line">þeim#sá# er#vera# bróðir</td><td>/*þeim er brodir*/</td></tr>
+   <tr><td class="audio_49_line">Býleifts#Býleiftr# í för.||</td><td>/*by leipz ifór.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_50" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.49*/</td><td>/**/</td></tr>
+   <tr><td class="audio_50_line">Hvað#hvat# er#vera# með ásum#áss#?</td><td>/*Hvat er ¦ meþ asom*/</td></tr>
+   <tr><td class="audio_50_line">Hvað#hvat# er#vera# með álfum#alfr#?</td><td>/*hvat er meþ alfom*/</td></tr>
+   <tr><td class="audio_50_line">Gnýr#gnýja# allr jötunheimr,</td><td>/*gnyr allr iotvn heimr*/</td></tr>
+   <tr><td class="audio_50_line">æsir#áss# ru#vera# á þingi#þing#,</td><td>/*ęsir ro aþin¦gi*/</td></tr>
+   <tr><td class="audio_50_line">stynja dvergar#dvergr#</td><td>/*stynia dvergar*/</td></tr>
+   <tr><td class="audio_50_line">fyr steindurum#steindyrr#,</td><td>/*fyr stein dvrom*/</td></tr>
+   <tr><td class="audio_50_line">veggbergs#veggberg# vísir#víss#;</td><td>/*veG bergs visir*/</td></tr>
+   <tr><td class="audio_50_line">vituð#vita# ér enn, hvað#hvat#?||</td><td>/*v. e. e. h.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_51" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.50*/</td><td>/**/</td></tr>
+   <tr><td class="audio_51_line">Surtr#Surtr# ferr#fara# sunnan</td><td>/*Surtr ¦ feR svNan*/</td></tr>
+   <tr><td class="audio_51_line">með sviga#svigi# lævi#læ#,</td><td>/*meþ sviga lefi*/</td></tr>
+   <tr><td class="audio_51_line">skínn#skína# af sverði#sverð#</td><td>/*sciN af sverþi*/</td></tr>
+   <tr><td class="audio_51_line">sól valtíva#valtívar#;</td><td>/*sol valtífa.*/</td></tr>
+   <tr><td class="audio_51_line">grjótbjörg#grjótbjarg# gnata</td><td>/*griot bi¦org gnata*/</td></tr>
+   <tr><td class="audio_51_line">en gífr rata,</td><td>/*eN gifr rata*/</td></tr>
+   <tr><td class="audio_51_line">troða halir#halr# helveg#helvegr#</td><td>/*troþa halir helveg*/</td></tr>
+   <tr><td class="audio_51_line">en himinn klofnar#klofna#.||</td><td>/*en himin clofnar. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 51-53*/||</h2>
+<table>
+   <tr><td><audio id="audio_52" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.51*/</td><td>/**/</td></tr>
+   <tr><td class="audio_52_line">Þá#þá# kjömr#koma# Hlínar#Hlín#</td><td>/*Þa cǫmr hlinar*/</td></tr>
+   <tr><td class="audio_52_line">harmr annarr fram</td><td>/*harmr aNaR fram*/</td></tr>
+   <tr><td class="audio_52_line">er Óðinn#Óðinn# ferr#fara#</td><td>/*er oðiN feR*/</td></tr>
+   <tr><td class="audio_52_line">við úlf#ulfr# vega</td><td>/*við ulf vega ¦*/</td></tr>
+   <tr><td class="audio_52_line">en bani Belja#Beli#</td><td>/*en bani belia*/</td></tr>
+   <tr><td class="audio_52_line">bjartr að#at# Surti#Surtr#,</td><td>/*biartr at surti*/</td></tr>
+   <tr><td class="audio_52_line">þá mun#munu# Friggjar#Frigg#</td><td>/*þa mvn friGiar*/</td></tr>
+   <tr><td class="audio_52_line">falla angan#angantýr#.||</td><td>/*falla angan ¦ tyr.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_53" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.52*/</td><td>/**/</td></tr>
+   <tr><td class="audio_53_line">Þá#þá# kjömr#koma# inn mikli#mikill#</td><td>/*Þa kǫmr iN micli*/</td></tr>
+   <tr><td class="audio_53_line">mögr Sigföður#Sigfaðir#,</td><td>/*ma/gr sigfa/dur*/</td></tr>
+   <tr><td class="audio_53_line">Víðarr#Víðarr#, vega</td><td>/*víðaR vega*/</td></tr>
+   <tr><td class="audio_53_line">að#at# valdýri#valdýr#;</td><td>/*at val dy¦ri.*/</td></tr>
+   <tr><td class="audio_53_line">lætr#láta# hann megi#mögr# Hveðrungs#Hveðrungr#</td><td>/*letr hann megi hvedrvngs*/</td></tr>
+   <tr><td class="audio_53_line">mund um standa</td><td>/*mvnd vm standa*/</td></tr>
+   <tr><td class="audio_53_line">hjör#hjörr# til hjarta;</td><td>/*hiór til hiarta ¦*/</td></tr>
+   <tr><td class="audio_53_line">þá er#vera# hefnt#hefna# föður#faðir#.||</td><td>/*þa er hefnt fa/dur.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_54" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.53*/</td><td>/**/</td></tr>
+   <tr><td class="audio_54_line">Þá#þá# kjömr#koma# inn mæri#mærr#</td><td>/*Þa kǫmr iN mǫri*/</td></tr>
+   <tr><td class="audio_54_line">mögr Hlöðynjar#Hlöðyn#,</td><td>/*ma/gr hlodyniar*/</td></tr>
+   <tr><td class="audio_54_line">gengr#ganga# Óðins#Óðinn# sonr</td><td>/*gengr ¦ oþins sonr*/</td></tr>
+   <tr><td class="audio_54_line">við#við# úlf#ulfr# vega,</td><td>/*vid ulf vega*/</td></tr>
+   <tr><td class="audio_54_line">drepr#drepa# hann af móði#móðr#</td><td>/*drepr hann af moþi*/</td></tr>
+   <tr><td class="audio_54_line">Miðgarðs#Miðgarðr# véur#véurr#,</td><td>/*miðgarz uęor ¦*/</td></tr>
+   <tr><td class="audio_54_line">munu halir#halr# allir#allr#</td><td>/*mvno halir allir*/</td></tr>
+   <tr><td class="audio_54_line">heimstöð ryðja,</td><td>/*heim stǫd ryþia*/</td></tr>
+   <tr><td class="audio_54_line">gengr#ganga# fet níu</td><td>/*gengr fet nío*/</td></tr>
+   <tr><td class="audio_54_line">Fjörgynjar#Fjörgynjar# burr</td><td>/*fiorgyn¦iar bvR*/</td></tr>
+   <tr><td class="audio_54_line">neppr frá naðri#naðr#</td><td>/*neppr fra naðri*/</td></tr>
+   <tr><td class="audio_54_line">níðs#níð# ókvíðnum#ókvíðinn#.||</td><td>/*niðs oqviðnom.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 54-56*/||</h2>
+<table>
+   <tr><td><audio id="audio_55" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.54*/</td><td>/**/</td></tr>
+   <tr><td class="audio_55_line">Sól#sól# tér#tjá# sortna,</td><td>/*Sol ter sortna ¦*/</td></tr>
+   <tr><td class="audio_55_line">sígr#síga# fold í mar#marr#,</td><td>/*sigr fold imar*/</td></tr>
+   <tr><td class="audio_55_line">hverfa af himni#himinn#</td><td>/*hverfa af himni*/</td></tr>
+   <tr><td class="audio_55_line">heiðar#heiðr# stjörnur#stjarna#;</td><td>/*heiðar stiornor.*/</td></tr>
+   <tr><td class="audio_55_line">geisar#geisa# eimi</td><td>/*geisar eími ¦*/</td></tr>
+   <tr><td class="audio_55_line">við aldrnara#aldrnari#,</td><td>/*viþ aldr nara*/</td></tr>
+   <tr><td class="audio_55_line">leikr#leika# hár hiti</td><td>/*leicr har hiti*/</td></tr>
+   <tr><td class="audio_55_line">við himin#himinn# sjálfan#sjalfr#.||</td><td>/*uið himin sialfan.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_56" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.55*/</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">Geyr#geyja# nú Garmr mjök</td><td>/*Geyr n. ¦*/</td></tr>
+   <tr><td class="audio_56_line">fyr Gnipahelli,</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">festr mun slitna</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">en freki renna;</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">fjölð veit hon fræða,</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">fram  sé ek lengra</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">um ragna rök</td><td>/**/</td></tr>
+   <tr><td class="audio_56_line">römm sigtíva.||</td><td>/**/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_57" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.56*/</td><td>/**/</td></tr>
+   <tr><td class="audio_57_line">Sér#sjá# hon upp koma</td><td>/*Ser hon upp koma*/</td></tr>
+   <tr><td class="audio_57_line">öðru#annarr# sinni#sinn#</td><td>/*a/ðro siNi*/</td></tr>
+   <tr><td class="audio_57_line">jörð ór ægi#ægir#</td><td>/*iorð or ęgi*/</td></tr>
+   <tr><td class="audio_57_line">iðjagræna#iðjagrænn#;</td><td>/*iþia grǫna.*/</td></tr>
+   <tr><td class="audio_57_line">falla forsar#fors#,</td><td>/*falla ¦ forsar*/</td></tr>
+   <tr><td class="audio_57_line">flýgr#fljúga# örn yfir,</td><td>/*flygr a/rn yfir*/</td></tr>
+   <tr><td class="audio_57_line">sá er á fjalli#fjall#</td><td>/*sa er afialli*/</td></tr>
+   <tr><td class="audio_57_line">fiska#fiskr# veiðir#veiða#.||</td><td>/*fisca ueiðir.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 57-59*/||</h2>
+<table>
+   <tr><td><audio id="audio_58" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.57*/</td><td>/**/</td></tr>
+   <tr><td class="audio_58_line">Finnaz#finna# æsir#áss#</td><td>/*FiNaz ¦ ęsir*/</td></tr>
+   <tr><td class="audio_58_line">á Iðavelli#Iðavöllr#</td><td>/*aiþa velli*/</td></tr>
+   <tr><td class="audio_58_line">ok um moldþinur#moldþinurr#</td><td>/*oc vm mold þinvr*/</td></tr>
+   <tr><td class="audio_58_line">máttkan#máttigr# dæma</td><td>/*matkaN dǫma*/</td></tr>
+   <tr><td class="audio_58_line">ok minnaz þar</td><td>/**/</td></tr>
+   <tr><td class="audio_58_line">á megindóma</td><td>/**/</td></tr>
+   <tr><td class="audio_58_line">ok á Fimbultýs#Fimbultýr#</td><td>/*oc a fimbvl ¦*/</td></tr>
+   <tr><td class="audio_58_line">fornar#forn# rúnar#rún#.||</td><td>/*fornar rvnar.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_59" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.58*/</td><td>/**/</td></tr>
+   <tr><td class="audio_59_line">Þar#þar# munu eftir</td><td>/*Þar mvno eptir*/</td></tr>
+   <tr><td class="audio_59_line">undrsamligar#undrsamligr#</td><td>/*vndr samligar*/</td></tr>
+   <tr><td class="audio_59_line">gull#gullinn# töflur#tafla#</td><td>/*gvll¦nar ta/flor*/</td></tr>
+   <tr><td class="audio_59_line">í grasi#gras# finnaz#finna#,</td><td>/*igrasi fiNaz.*/</td></tr>
+   <tr><td class="audio_59_line">þær#sá#|s#er# í árdaga#árdagr#</td><td>/*þers i ardaga*/</td></tr>
+   <tr><td class="audio_59_line">áttar#eiga# höfðu#hafa#.||</td><td>/*attar hofðo. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_60" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.59*/</td><td>/**/</td></tr>
+   <tr><td class="audio_60_line">Munu#munu# ósánir#ósáinn#</td><td>/*Mvno osanir*/</td></tr>
+   <tr><td class="audio_60_line">akrar#akr# vaxa,</td><td>/*acrar uaxa*/</td></tr>
+   <tr><td class="audio_60_line">böls#böl# mun#munu# allz#allr# batna,</td><td>/*ba/ls mvn allz batna*/</td></tr>
+   <tr><td class="audio_60_line">Baldr#Baldr# mun#munu# koma;</td><td>/*baldr ¦ mvn coma.*/</td></tr>
+   <tr><td class="audio_60_line">búa þeir#sá# Höðr#Höðr# ok Baldr#Baldr#</td><td>/*bva þeir ha/þr oc baldr*/</td></tr>
+   <tr><td class="audio_60_line">Hrofts#Hroftr# sigtóftir#sigtóft#</td><td>/*hroptz sigtoptir*/</td></tr>
+   <tr><td class="audio_60_line">vel, valtívar#valtívar#,</td><td>/*vel val¦tivar*/</td></tr>
+   <tr><td class="audio_60_line">vituð#vita# r#ér# enn, hvað#hvat#?||</td><td>/*v. e. e. h.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+</table>
+||<page>
+
+<h2>/*Vsp. 60-62*/||</h2>
+<table>
+   <tr><td><audio id="audio_61" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.60*/</td><td>/**/</td></tr>
+   <tr><td class="audio_61_line">Þá#þá# kná#knega# Hænir#Hænir#</td><td>/*Þa kna hǫnir*/</td></tr>
+   <tr><td class="audio_61_line">hlautvið#hlautviðr# kjósa</td><td>/*hla/t viþ kiosa*/</td></tr>
+   <tr><td class="audio_61_line">ok byrir#burr# byggja</td><td>/*oc byrir ¦ byGia*/</td></tr>
+   <tr><td class="audio_61_line">bræðra#bróðir# tveggja#tveir#</td><td>/*brǫdra tveGia.*/</td></tr>
+   <tr><td class="audio_61_line">vindheim#vindheimr# víðan#víðr#,</td><td>/*vind heim vidan*/</td></tr>
+   <tr><td class="audio_61_line">vituð#vita# ér enn, hvað#hvat#?||</td><td>/*v. e. e. h*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_62" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.61*/</td><td>/**/</td></tr>
+   <tr><td class="audio_62_line">Sal#salr# sér#sjá# hon standa</td><td>/*Sal ser ¦ hon standa*/</td></tr>
+   <tr><td class="audio_62_line">sólu#sól# fegra#fagr#,</td><td>/*solo fegra*/</td></tr>
+   <tr><td class="audio_62_line">gulli#gull# þakðan#þekja#</td><td>/*gvlli þacþan*/</td></tr>
+   <tr><td class="audio_62_line">á Gimlé#Gimlé#:</td><td>/*agImlé*/</td></tr>
+   <tr><td class="audio_62_line">Þar#þar# skulu dyggvar#dyggr#</td><td>/*þar ¦¦ scolo dyGvar*/</td></tr>
+   <tr><td class="audio_62_line">dróttir#drótt# byggja</td><td>/*drottir byGia*/</td></tr>
+   <tr><td class="audio_62_line">ok um aldrdaga#aldrdagar#</td><td>/*oc vm aldr daga*/</td></tr>
+   <tr><td class="audio_62_line">ynðis#ynði# njóta.||</td><td>/*ynþis niota. ¦*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td></td><td>/**/</td></tr>
+   <tr><td><audio id="audio_63" src="this segment"/><br/></td><td>/**/</td></tr>
+   <tr><td>/*v.Vsp.62*/</td><td>/**/</td></tr>
+   <tr><td class="audio_63_line">Þar#þar# kjömr#koma# inn dimmi#dimmr#</td><td>/*Þar kǫmr iN dimmi*/</td></tr>
+   <tr><td class="audio_63_line">dreki fljúgandi#fljúga#,</td><td>/*dreki flivgandi*/</td></tr>
+   <tr><td class="audio_63_line">naðr fránn, neðan</td><td>/*naþr fraN neþan*/</td></tr>
+   <tr><td class="audio_63_line">frá Niðafjöllum#Niðafjöll#;</td><td>/*fra ¦ niþa fiollom.*/</td></tr>
+   <tr><td class="audio_63_line">berr#bera# sér#sik# í fjöðrum#fjöðr#,</td><td>/*beR ser ifioþrom*/</td></tr>
+   <tr><td class="audio_63_line">flýgr#fljúga# völl#völlr# yfir,</td><td>/*flygr va/ll yfir*/</td></tr>
+   <tr><td class="audio_63_line">Níðhöggr#Níðhöggr# nái#nár#,</td><td>/*niþha/Gr ¦ nai*/</td></tr>
+   <tr><td class="audio_63_line">nú mun#munu# hon sökkvaz#søkkva#.||</td><td>/*nv mvn hon seyqvaz.*/</td></tr>   <tr><td></td><td>/**/</td></tr>
+   <tr><td>||</td><td>/**/</td></tr>
+</table>
+
+||<page>
+
+<h1>/*Heimildir*/||</h1>
+/*Sigurðsson, G. (1998). Eddukvæði. Mál og menning. Reykjavík.
+Bellows, H. A. (1936). The Poetic Edda. Retrieved from <a href="https://www.sacred-texts.com/neu/poe/poe03.htm"><b><u>sacred-texts.com</u></b></a>.
+Poetic Edda/Völuspá II - Codex Regius. Retrieved from <a href="https://en.wikisource.org/wiki/Poetic_Edda/V%C3%B6lusp%C3%A1_II"><b><u>wikisource.org</u></b></a>.
+*/
+||

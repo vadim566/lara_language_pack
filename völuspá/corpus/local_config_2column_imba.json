@@ -1,0 +1,21 @@
+{
+    "id": "völuspá_2column_imba",
+    "language": "icelandic",
+    "corpus": "$LARA/Content/völuspá/corpus/völuspá_2column.txt",
+	"notes_spreadsheet": "$LARA/Content/völuspá/corpus/notes.csv",
+	"coloured_words": "no",
+	"note_words_in_colour": "yes",
+    "word_translations_on": "surface_word_token",
+    "segment_translation_spreadsheet": "$LARA/Content/völuspá/translations/icelandic_english.csv",
+	"segment_translation_character": "ᚠ",
+    "translation_spreadsheet_tokens": "$LARA/Content/völuspá/translations/token_icelandic_english.csv",
+	"word_audio_directory": "$LARA/Content/oldnorse/audio/imba",
+	"segment_audio_directory": "$LARA/Content/völuspá/audio/imba",
+	"audio_segments": "yes",
+	"audio_mouseover": "yes",
+    "translation_mouseover": "yes",
+    "segment_translation_mouseover": "yes",
+    "max_examples_per_word_page": 10,
+	"image_directory": "$LARA/Content/völuspá/images",
+	"allow_table_of_contents": "yes"
+}

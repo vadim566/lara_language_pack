@@ -1,0 +1,18 @@
+--- Making export zipfile for /export/data/www/LARA-data/303_völuspá/corpus/local_config.json
+--- Copying corpus file: /export/data/www/LARA-data/303_völuspá/corpus/ImportedTaggedFile.txt
+--- File copied to /export/data/www/LARA-data/WorkingTmpDirectory/lara_tmp_dir_1250185567755077/völuspá/corpus/ImportedTaggedFile.txt
+--- Processing word audio directory "/export/data/www/LARA-data/oldnorse/audio/Imba"
+--- Processing word translation spreadsheet "/export/data/www/LARA-data/oldnorse/translations/type_oldnorse_english.csv"
+--- Copying word token translation spreadsheet: "/export/data/www/LARA-data/303_völuspá/translations/token_oldnorse_english.csv"
+--- File copied to /export/data/www/LARA-data/WorkingTmpDirectory/lara_tmp_dir_1250185567755077/völuspá/translations/token_oldnorse_english.csv
+--- Copying notes spreadsheet: "/export/data/www/LARA-data/303_völuspá/corpus/notes.csv"
+--- File copied to /export/data/www/LARA-data/WorkingTmpDirectory/lara_tmp_dir_1250185567755077/völuspá/corpus/notes.csv
+--- Copying segment audio directory (111 files) "/export/data/www/LARA-data/303_völuspá/audio/Imba"
+--- Copying segment translation spreadsheet: "/export/data/www/LARA-data/303_völuspá/translations/oldnorse_english.csv"
+--- File copied to /export/data/www/LARA-data/WorkingTmpDirectory/lara_tmp_dir_1250185567755077/völuspá/translations/oldnorse_english.csv
+--- Processing MWE defs file "/export/data/www/LARA-data/oldnorse/corpus/mwe_defs.txt"
+--- Copying MWE annotations file: /export/data/www/LARA-data/ContentTmpDirectory/303_völuspá/resourcesDir/mwe_annotations.json
+--- File copied to /export/data/www/LARA-data/WorkingTmpDirectory/lara_tmp_dir_1250185567755077/völuspá/corpus/mwe_annotations.json
+--- Copying image directory (2 files) "/export/data/www/LARA-data/303_völuspá/images"
+--- Creating config file
+--- Copying CSS and JS files (0 files)

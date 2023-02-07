@@ -1,0 +1,649 @@
+<h1>Völuspá||</h1>
+/*v.Vsp.1*/
+Hljóðs#hljóð# bið#biðja# ek allar#allr#
+kindir#kind#,
+meiri ok minni
+mögu#mögr# Heimdalar#Heimdallr#;
+vild#vilja# u#þú# að#at# ek, Valföðr#Valföðr#,
+vel fram telja
+forn spjöll#spjall# fira#firar#,
+þau#sá# er fremst#framr# um man#muna#.||
+
+/*v.Vsp.2*/
+Ek#ek# man#muna# jötna#jötunn#
+ár um borna#bera#,
+þá#sá# er forðum mik#ek#
+fædda#fæða# höfðu#hafa#;
+níu man#muna# ek heima#heimr#,
+níu íviðjur#íviðja#,
+mjötvið#mjötviðr# mæran#mærr#
+fyr mold neðan.||
+
+/*v.Vsp.3*/
+Ár#ár# var#vera# alda#öld#
+þar er Ymir#Ymir# byggði#byggja#,
+var#vera# a#-a# sandr né sær#sjór#
+né svalar#svalr# unnir#unnr#,
+jörð fannz#finna# æva
+né upphiminn,
+gap var#vera# ginnunga#ginnungi#
+en gras hvergi.||
+
+/*v.Vsp.4*/
+Áðr#áðr# Burs#Burr# synir#sonr#
+bjöðum#bjöð# um yppðu#yppa#,
+þeir#sá# er Miðgarð#Miðgarðr#
+mæran#mærr# skópu#skapa#;
+sól skein#skína# sunnan
+á salar#salr# steina#steinn#,
+þá var#vera# grund gróin#gróa#
+grænum#grænn# lauki#laukr#.||
+
+/*v.Vsp.5*/
+Sól#sól# varp#verpa# sunnan,
+sinni mána#máni#,
+hendi#hönd# inni#inn# hægri
+um himinjódýr;
+sól það#sá# né vissi#vita#
+hvar hon sali#salr# átti#eiga#,
+stjörnur#stjarna# það#sá# né vissu#vita#
+hvar þær#sá# staði#staðr# áttu#eiga#,
+máni það#sá# né vissi#vita#
+hvað#hvat# hann megins#megin# átti#eiga#.||
+
+/*v.Vsp.6*/
+Þá#þá# gengu#ganga# regin öll#allr#
+á rökstóla#røkstóll#,
+ginnheilög#ginnheilagr# goð,
+ok um það#sá# gættuz#gæta#:
+Nótt#nátt# ok niðjum#niðr#
+nöfn#nafn# um gáfu#gefa#,
+morgin#morginn# hétu#heita#
+ok miðjan#miðr# dag#dagr#,
+un#undorn# ok aftan#aftann#,
+árum#ár# að#at# telja.||
+
+/*v.Vsp.7*/
+Hittuz#hitta# æsir#áss#
+á Iðavelli#Iðavöllr#,
+þeir#sá# er hörg#hörgr# ok hof
+hátimbruðu#hátimbra#;
+afla#afl# lögðu#leggja#,
+auð#auðr# smíðuðu#smíða#,
+tangir#töng# skópu#skapa#
+ok tól gjörðu#gera#.||
+
+/*v.Vsp.8*/
+Teflðu#tefla# í túni#tún#,
+teitir#teitr# vóru#vera#,
+var#vera# þeim#sá# vettergis#vættki#
+vant#vanr# ór gulli#gull#
+unz þrjár#3# kvómu#koma#
+þursa#þurs# meyjar#mær#
+ámáttkar#ámáttigr# mjök
+ór jötunheimum#jötunheimr#.||
+
+/*v.Vsp.9*/
+Þá#þá# gengu#ganga# regin öll#allr#
+á rökstóla#røkstóll#,
+ginnheilög goð,
+ok um það gættuz
+hverr skyldi#skulu# dverga#dvergr#
+dróttin#dróttinn# skepja
+ór Brimis#Brimir# blóði#blóð#
+ok ór blám#blár# leggjum#leggr#.||
+
+/*v.Vsp.10*/
+Þar#þar# var Mót#Mótsognir#
+mæztr#mætr# um orðinn#verða#
+dverga#dvergr# allra#allr#
+en Durinn#Durinn# annarr;
+þeir#sá# mann#mannlíkan#
+mörg#margr# um gjörðu#gera#,
+dvergar#dvergr#, ór jörðu#jörð#
+sem Durinn#Durinn# sagði#segja#.||
+
+/*v.Vsp.11*/
+Nýi#Nýi# ok Niði#Niði#,
+Norðri#Norðri# ok Suðri#Suðri#,
+Austri#Austri# ok Vestri#Vestri#,
+Alþjófr#Alþjófr#, Dvalinn#Dvalinn#,
+Bíf#Bífurr#, Báfurr#Báfurr#,
+Bömburr#Bömburr#, Nóri#Nóri#,
+Án#Án# ok Ánarr#Ánarr#,
+Ái#Ái#, Mjöðvitnir#Mjöðvitnir#.||
+
+/*v.Vsp.12*/
+Veigr#Veigr# ok Gandálfr#Gandalfr#,
+Vindálfr#Vindalfr#, Þráinn#Þráinn#,
+Þekkr#Þekkr# ok Þorinn#Þorinn#,
+Þrór#Þrór#, Vitr#Vitr# ok Litr#Litr#,
+Nár#Nár# ok Nýráðr#Nýráðr#,
+nú hefi#hafa# ek dverga#dvergr#,
+Reginn#Reginn# ok Ráðsviðr#Ráðsviðr#,
+rétt#réttr# um talða#telja#.||
+
+/*v.Vsp.13*/
+Fíli#Fíli#, Kíli#Kíli#,
+Fundinn#Fundinn#, Náli#Náli#,
+Hefti#Hefti#, Víli#Víli#,
+Hanarr#Hanarr#, Sví#Svíurr#,
+Frár#Frár#, Hornbori#Hornbori#,
+Frægr#Frægr# ok Lóni#Lóni#,
+Aurvangr#Aurvangr#, Jari#Jari#,
+Eikins#Eikinskjaldi#.||
+
+/*v.Vsp.14*/
+Mál#mál# er#vera# dverga#dvergr#
+í Dvalins#Dvalinn# liði#lið#
+ljóna#ljónar# kindum#kind#
+til Lofa#Lofarr# telja,
+þeir#sá# er sóttu#sækja#
+frá salar#salr# steini#steinn#
+aurvanga#aurvangr# sjöt
+til Jöruvalla#Jöruvellir#.||
+
+/*v.Vsp.15*/
+Þar#þar# var#vera# Draupnir#Draupnir#
+ok Dólgþrasir#Dolgþrasir#,
+Hár#Hár#, Haugspori#Haugspori#,
+Hlévangr#Hlévangr#, Glói#Glói#,
+Skirfir#Skirfir#, Virfir#Virfir#,
+Skáfiðr#Skáfiðr#, Ái#Ái#,
+
+/*v.Vsp.16*/
+Álfr#Alfr# ok Yngvi#Yngvi#,
+Eikinskjaldi#Eikinskjaldi#,
+Fjalarr#Fjalarr# ok Frosti#Frosti#,
+Finnr#Finnr# ok Ginnarr#Ginnarr#;
+það#sá# mun#munu# uppi,
+meðan öld lifir#lifa#,
+langniðja#langniðr# tal
+Lofars#Lofarr# hafað#hafa#.||
+
+/*v.Vsp.17*/
+Unz#unz# þrír kvómu#koma#
+ór því#sá# liði#lið#
+öflgir#öflugr# ok ástgir#ástugr#
+æsir#áss# að#at# húsi#hús#,
+fundu#finna# á landi#land#
+lítt megandi#mega#
+Ask#Askr# ok Emblu#Embla#
+örlöglausa#ørlöglauss#;||
+
+/*v.Vsp.18*/
+önd þau#sá# né áttu#eiga#,
+óð#óðr# þau#sá#,
+lá
+né litu#litr# góða#góðr#.||
+
+Önd#önd# gaf#gefa# Óðinn#Óðinn#,
+óð#óðr# Hænir#Hænir#,
+lá gaf#gefa# Lóðurr#Lóðurr#
+ok litu#litr# góða#góðr#.||
+
+/*v.Vsp.19*/
+Ask#askr# veit#vita# ek standa,
+heitir#heita# Yggdrasill#Yggdrasill#,
+hár baðmr, ausinn#ausa#
+hvítaauri#hvítaaurr#;
+þaðan koma döggvar#dögg#
+þær#sá# s#er# í dala#dalr# falla;
+stendr#standa# æ yfir grænn
+Urðar#Urðr# brunni#brunnr#.||
+
+/*v.Vsp.20*/
+Þaðan#þaðan# koma meyjar#mær#
+margs#margr# vitandi#vita#
+þrjár#þrír# ór þeim#sá# sæ#sjór#
+er und þolli#þollr# stendr#standa#,
+Urð#Urðr# hétu#heita# eina#einn#,
+aðra#annarr# Verðandi#Verðandi#,
+skáru#skera# á skíði#skíð#,
+Skuld#Skuld# ina#inn# þriðju#þriði#.||
+
+Þær#sá# lög lögðu#leggja#,
+þær#sá# líf kuru#kjósa#
+alda#öld# börnum#barn#,
+ör#ørlög# seggja#seggr#.||
+
+/*v.Vsp.21*/
+Það#sá# man#muna# hon fólkvíg#folkvíg#
+fyrst#fyrri# í heimi#heimr#
+er Gullveig#Gullveig#
+geirum#geirr# studdu#styðja#
+ok í höll Hárs#Hárr#
+hana#hon# brenndu#brenna#.||
+
+Þrysvar#þrysvar# brenndu#brenna#
+þrysvar borna#bera#,
+oft, ósjaldan;
+þó hon enn lifir#lifa#.||
+
+/*v.Vsp.22*/
+Heiði#Heiðr# hana#hon# hétu#heita#
+hvar s#er# til húsa#hús# kom#koma#,
+völu#völva# velspá#velspár#,
+vitti#vitta# hon ganda#gandr#;
+seið#seiðr# hon kunni#kunna#,
+seið#síða# hon leikinn#leika#,
+æ var#vera# hon angan
+illrar#illr# brúðar#brúðr#.||
+
+/*v.Vsp.23*/
+Þá#þá# gengu#ganga# regin öll#allr#
+á rökstóla,
+ginnheilög goð,
+ok um það gættuz
+hvárt#hvárr# skyldu#skulu# æsir#áss#
+afráð gjalda
+eða skyldu#skulu# goðin#goð# öll#allr#
+gildi eiga.||
+
+/*v.Vsp.24*/
+Fleygði#fleygja# Óðinn#Óðinn#
+ok í fólk#folk# um skaut#skjóta#,
+það#sá# var#vera# enn fólk#folkvíg#
+fyrst#fyrri# í heimi#heimr#;
+brotinn#brjóta# var#vera# borðvegr
+borgar#borg# ása#áss#,
+knáttu#knega# vanir#vanr# vígspá
+völlu#völlr# sporna.||
+
+/*v.Vsp.25*/
+Þá#þá# gengu#ganga# regin öll#allr#
+á rökstóla,
+ginnheilög goð,
+ok um það gættuz
+hverir#hverr# hefði#hafa# loft allt#allr#
+lævi#læ# blandið#blanda#
+eða ætt jötuns#jötunn#
+Óðs#Óðr# mey#mær# gefna#gefa#.||
+
+/*v.Vsp.26*/
+Þórr#Þórr# einn þar var#vera#,
+þrunginn#þrøngva# móði#móðr#,
+hann sjaldan sitr#sitja#
+er hann slíkt#slíkr# um fregn#fregna#;
+á ge#ganga# eiðar#eiðr#,
+orð ok særi,
+mál öll#allr# meginlig#meginligr#
+er á meðal fóru#fara#.||
+
+/*v.Vsp.27*/
+Veit#vita# hon Heimdalar#Heimdallr#
+hljóð um fólgið#fela#
+undir heiðvönum#heiðvanr#
+helgum#heilagr# baðmi#baðmr#;
+á sér#sjá# hon ausaz#ausa#
+aurgum#aurugr# forsi#fors#
+af veði#veð# Valföðrs#Valföðr#;
+vit#vita# ér enn, eða hvað#hvat#?||
+
+/*v.Vsp.28*/
+Ein#einn# sat#sitja# hon úti
+þá er inn aldni#aldinn# kom#koma#,
+yggjungr#Yggjungr# ása#áss#,
+ok í augu#auga# leit#líta#:
+Hvers#hverr# fregnið#fregna# mik#ek#?
+Hví#hvat# freistið#freista# mín#ek#?
+Allt#allr# veit#vita# ek, Óðinn#Óðinn#,
+hvar þú auga falt#fela#:
+Í#í# inum#inn# mæra#mærr#
+Mímis#Mímir# brunni#brunnr#!
+Drekkr#drekka# mjöð#mjöðr# Mímir#Mímir#
+morgin#morginn# hverjan#hverr#
+af veði#veð# Valföðrs#Valföðr#;
+vituð#vita# ér enn, hvað#hvat#?||
+
+/*v.Vsp.29*/
+Valði#velja# henni#hon# Herföðr#Herföðr#
+hringa#hringr# ok men,
+féspjöll#féspjall# spaklig#spakligr#
+ok spá#spágandr#,
+sá#sjá# hon vítt#víðr# ok um vítt#víðr#,
+of veröld hverja#hverr#.||
+
+/*v.Vsp.30*/
+Sá#sjá# hon valkyr#valkyrja#,
+vítt#víðr# um komnar#koma#,
+görvar#gera# að#at# ríða
+til goðþjóðar#goðþjóð#;
+Skuld#Skuld# helt#halda# skildi#skjöldr#
+en Skögul#Skögul# önnur#annarr#,
+Gunnr#Gunnr#, Hildr#Hildr#, Göndul#Göndul#
+ok Geir#Geirskögul#.
+Nú#nú# eru#vera# talðar#telja#
+nönnur#nanna# Herjans#Herjann#,
+görvar#gera# að#at# ríða
+grund, valkyrjur#valkyrja#.||
+
+/*v.Vsp.31*/
+Ek#ek# sá#sjá# Baldri#Baldr#,
+blóðgum#blóðigr# tívur#tívurr#,
+Óðins#Óðinn# barni#barn#,
+örlög#ørlög# fólgin#fela#;
+stóð#standa# um vaxinn#vaxa#
+völlum#völlr# hæri#hár#
+mjór ok mjök fagr
+mistilteinn.||
+
+/*v.Vsp.32*/
+Varð#verða# af þeim#sá# meiði#meiðr#,
+er mær#mjór# sýndiz#sýna#,
+harmflaug hættlig#hættligr#,
+Höðr#Höðr# nam#nema# skjóta.
+Baldrs#Baldr# bróðir var#vera#
+of borinn#bera# snemma,
+sá nam#nema#, Óðins#Óðinn# sonr,
+einnættr vega.||
+
+/*v.Vsp.33*/
+Þó#þvá# hann æva hendr#hönd#
+né höfuð kembði#kemba#
+áðr á bál um bar#bera#
+Baldrs#Baldr# andskota#andskoti#
+en Frigg#Frigg# um grét#gráta#
+í Fensölum#Fensalir#
+vá Valhallar#Valhöll#;
+vituð#vita# ér enn, eða hvað#hvat#?||
+
+/*v.Vsp.35*/
+Haft#haftr# sá#sjá# hon liggja
+undir hvera#hverr# lundi#lundr#,
+læ#lægjarn# líki#lík#
+Loka#Loki# áþekkjan#áþekkr#;
+þar sitr#sitja# Sigyn#Sigyn#,
+þeygi um sínum#sinn#
+ver#verr# velglýjuð#velglýjaðr#;
+vituð#vita# þér#ér# enn, hvað#hvat#?||
+
+/*v.Vsp.36*/
+Á#á# fellr#falla# austan
+um eitrdala#eitrdalr#
+söxum#sax# ok sverðum#sverð#:
+Slíðr#Slíðr# heitir#heita# sú#sá#.
+
+/*v.Vsp.37*/
+Stóð#standa# fyr norðan,
+á Niðavöllum#Niðavellir#,
+salr ór gulli#gull#
+Sin#Sindri# ættar#ætt#
+en annarr stóð#standa#
+á Ókólni#Ókolnir#,
+bjórsalr jötuns#jötunn#,
+en sá Brimir#Brimir# heitir#heita#.||
+
+/*v.Vsp.38*/
+Sal#salr# sá#sjá# hon standa
+sólu#sól# fjarri,
+Náströndu#Náströnd# á,
+norðr hor#horfa# dyrr;
+fellu#falla# eitrdropar#eitrdropi#
+inn um ljóra#ljóri#,
+sá er#vera# undinn#vinda# salr
+orma#ormr# hryggjum#hryggr#.||
+
+/*v.Vsp.39*/
+Sá#sjá# hon þar vaða
+þunga#þungr# strauma#straumr#
+menn#maðr# meinsvara
+ok morðvarga
+ok þann#sá# z#er# annars#annarr# glepr#glepja#
+eyrarúnu#eyrarúna#;
+þar saug#súga# Níð#Níðhöggr#
+nái#nár# framgengna#framgenginn#,
+sleit#slíta# vargr vera#verr#;
+vituð#vita# r#ér# enn, eða hvað#hvat#?||
+
+/*v.Vsp.40*/
+Austr#austr# sat#sitja# in#inn# aldna#aldinn#
+í Járnviði#Járnviðr#
+ok fæddi#fæða# þar
+Fenris#Fenrir# kindir#kind#;
+verðr#verða# af þeim#sá# öllum#allr#
+einna#einn# nokkurr#nökkurr#
+tungls#tungl# tjúgari
+í trollz#troll# hami#hamr#.||
+
+/*v.Vsp.41*/
+Fylliz#fylla# fjör
+feigra#feigr# manna#maðr#,
+rýðr#rjóða# ragna#regin# sjöt
+rauðum#rauðr# dreyra#dreyri#;
+svart#svartr# var#vera# þá sól#sólskin#
+of sumur#sumar# eftir,
+veðr öll#allr# válynd#vályndr#;
+vituð#vita# ér hvað#hvat#?||
+
+/*v.Vsp.42*/
+Sat#sitja# þar á haugi#haugr#
+ok sló#slá# hörpu#harpa#
+gýgjar#gýgr# hirðir,
+glaðr Eggþér#Eggþér#;
+gól#gala# um hánum#hann#
+í gagl#gaglviðr#
+fagrrauðr hani
+sá er Fjalarr#Fjalarr# heitir#heita#.||
+
+/*v.Vsp.43*/
+Gól#gala# um ásum#áss#
+Gul#Gullinkambi#,
+sá vekr#vekja# hölða#höldr#
+að#at# Herjaföðrs#Herjaföðr#
+en annarr gelr#gala#
+fyr jörð neðan,
+sótrauðr hani,
+að#at# sölum#salr# Heljar#Hel#.||
+
+/*v.Vsp.44*/
+Geyr#geyja# Garmr#Garmr# mjök
+fyr Gnipahelli#Gnipahellir#,
+festr mun#munu# slitna
+en Fre#Freki# renna;
+fjölð veit#vita# hon fræða#fræði#,
+fram sé#sjá# ek lengra#langr#
+um rag#regin# rök#røk#
+römm#rammr# sigtíva#sigtívar#.||
+
+/*v.Vsp.45*/
+Bræðr#bróðir# munu berjaz#berja#
+ok að#at# bönum#bani# verða,
+munu systrungar#systrungr#
+sifjum#sif# spilla;
+hart#harðr# er#vera# í heimi#heimr#,
+hór#hórdómr# mikill,
+skeggöld, skálmöld#skalmöld#,
+skildir#skjöldr# ru#vera# klofnir#kljúfa#,
+vindöld, vargöld,
+áðr veröld steypiz#steypa#;
+mun#munu# engi maðr
+öðrum#annarr# þyrma.||
+
+/*v.Vsp.46*/
+Leika#leika# Míms#Mímir# synir#sonr#
+en mjötuðr kyndiz#kynda#
+að#at# inu#inn# galla#gallr#
+Gjal#Gjallarhorn#;
+hátt#hár# blæss#blása# Heimdallr#Heimdallr#,
+horn er#vera# á lofti#loft#,
+mælir#mæla# Óðinn#Óðinn#
+
+/*v.Vsp.47*/
+við Míms#Mímir# höfuð;
+ymr#ymja# ið#inn# aldna#aldinn# tré
+en jötunn losnar#losna#,
+skelfr#skjalfa# Yggdrasils#Yggdrasill#
+askr st#standa#.||
+
+/*v.Vsp.48*/
+Geyr#geyja# nú Garmr#Garmr# mjök
+fyr Gnipahelli,
+festr mun slitna
+en Freki renna;{{
+
+/*v.Vsp.49*/
+fjölð veit hon fræða,
+fram sé ek lengra
+um ragna rök
+römm sigtíva.||
+
+/*v.Vsp.50*/
+Hrymr#Hrymr# ekr#aka# austan,
+hefiz#hafa# lind fyr;
+sn#snúa# jörmungandr
+í jötunmóði#jötunmóðr#;
+ormr knýr#knýja# unnir#unnr#
+en ari hl#hlakka#,
+slítr#slíta# nái#nár# neffölr;
+Naglfar#Naglfar# losnar#losna#.||
+
+/*v.Vsp.51*/
+Kjóll#kjóll# ferr#fara# aus#austan#,
+koma munu Múspellz#Múspell#
+um lög#lögr# lýðir#lýðr#
+en Loki#Loki# stýrir#stýra#;
+fara fífls#fífl# megir#mögr#
+með freka#freki# allir#allr#,
+þeim#sá# er#vera# bróðir
+Býleifts#Býleiftr# í för.||
+
+/*v.Vsp.48*/
+Hvað#hvat# er#vera# með ásum#áss#?
+Hvað#hvat# er#vera# með álfum#alfr#?
+Gnýr#gnýja# allr jötunheimr,
+æsir#áss# ru#vera# á þin#þing#,
+stynja dvergar#dvergr#
+fyr steindurum#steindyrr#,
+veggbergs#veggberg# vísir#víss#;
+vituð#vita# ér enn, hvað#hvat#?||
+
+/*v.Vsp.52*/
+Surtr#Surtr# ferr#fara# sunnan
+með sviga#svigi# lævi#læ#,
+skínn#skína# af sverði#sverð#
+sól valtíva#valtívar#;
+grjótbj#grjótbjarg# gnata
+en gífr rata,
+troða halir#halr# helveg#helvegr#
+en himinn klofnar#klofna#.||
+
+/*v.Vsp.53*/
+Þá#þá# kjömr#koma# Hlínar#Hlín#
+harmr annarr fram
+er Óðinn#Óðinn# ferr#fara#
+við úlf#ulfr# vega
+en bani Belja#Beli#
+bjartr að#at# Surti#Surtr#,
+þá mun#munu# Friggjar#Frigg#
+falla angan#angantýr#.||
+
+/*v.Vsp.55*/
+Þá#þá# kjömr#koma# inn mikli#mikill#
+mögr Sigföður#Sigfaðir#,
+Víðarr#Víðarr#, vega
+að#at# valdý#valdýr#;
+lætr#láta# hann megi#mögr# Hveðrungs#Hveðrungr#
+mund um standa
+hjör#hjörr# til hjarta;
+þá er#vera# hefnt#hefna# föður#faðir#.||
+
+/*v.Vsp.56*/
+Þá#þá# kjömr#koma# inn mæri#mærr#
+mögr Hlöðynjar#Hlöðyn#,
+gengr#ganga# Óðins#Óðinn# sonr
+við #við# úlf#ulfr# vega,
+drepr#drepa# hann af móði#móðr#
+Miðgarðs#Miðgarðr# véur#véurr#,
+munu halir#halr# allir#allr#
+heimstöð ryðja,
+gengr#ganga# fet níu
+Fjörgyn#Fjörgyn# burr
+neppr frá naðri#naðr#
+níðs#níð# ókvíðnum#ókvíðinn#.||
+
+/*v.Vsp.57*/
+Sól#sól# tér#tjá# sortna,
+sígr#síga# fold í mar#marr#,
+hverfa af himni#himinn#
+heiðar#heiðr# stjörnur#stjarna#;
+geisar#geisa# eimi
+við aldrnara#aldrnari#,
+leikr#leika# hár hiti
+við himin#himinn# sjálfan#sjalfr#.||
+
+/*v.Vsp.58*/
+Geyr#geyja# nú Garmr mjök
+fyr Gnipahelli,
+festr mun slitna
+en freki renna;
+fjölð veit hon fræða,
+fram  sé ek lengra
+um ragna rök
+römm sigtíva.||
+
+/*v.Vsp.59*/
+Sér#sjá# hon upp koma
+öðru#annarr# sinni#sinn#
+jörð ór ægi#ægir#
+iðjagræna#iðjagrænn#;
+falla forsar#fors#,
+flýgr#fljúga# örn yfir,
+sá er á fjalli#fjall#
+fiska#fiskr# veiðir#veiða#.||
+
+/*v.Vsp.60*/
+Finnaz#finna# æsir#áss#
+á Iðavelli#Iðavöllr#
+ok um moldþinur#moldþinurr#
+máttkan#máttigr# dæma
+ok minnaz þar
+á megindóma
+ok á Fimbul#Fimbultýr#
+fornar#forn# rúnar#rún#.||
+
+/*v.Vsp.61*/
+Þar#þar# munu eftir
+undrsamligar#undrsamligr#
+gull#gullinn# töflur#tafla#
+í grasi#gras# finnaz#finna#,
+þær#sá# s#er# í árdaga#árdagr#
+áttar#eiga# höfðu#hafa#.||
+
+/*v.Vsp.62*/
+Munu#munu# ósánir#ósáinn#
+akrar#akr# vaxa,
+böls#böl# mun#munu# allz#allr# batna,
+Baldr#Baldr# mun#munu# koma;
+búa þeir#sá# Höðr#Höðr# ok Baldr#Baldr#
+Hrofts#Hroftr# sigtóftir#sigtóft#
+vel, val#valtívar#,
+vituð#vita# r#ér# enn, hvað#hvat#?||
+
+/*v.Vsp.63*/
+Þá#þá# kná#knega# Hænir#Hænir#
+hlautvið#hlautviðr# kjósa
+ok byrir#burr# byggja
+bræðra#bróðir# tveggja#tveir#
+vindheim#vindheimr# víðan#víðr#,
+vituð#vita# ér enn, hvað#hvat#?||
+
+/*v.Vsp.64*/
+Sal#salr# sér#sjá# hon standa
+sólu#sól# fegra#fagr#,
+gulli#gull# þakðan#þekja#
+á Gimlé#Gimlé#:
+Þar#þar# skulu dyggvar#dyggr#
+dróttir#drótt# byggja
+ok um aldrdaga#aldrdagar#
+ynðis#ynði# njóta.||
+
+/*v.Vsp.66*/
+Þar#þar# kjömr#koma# inn dimmi#dimmr#
+dreki fljúgandi#fljúga#,
+naðr fránn, neðan
+Niðafjöllum#Niðafjöll#;
+berr#bera# sér#sik# í fjöðrum#fjöðr#,
+flýgr#fljúga# völl#völlr# yfir,
+Níðhöggr#Níðhöggr# nái#nár#,
+nú mun#munu# hon sökkvaz#søkkva#.||
